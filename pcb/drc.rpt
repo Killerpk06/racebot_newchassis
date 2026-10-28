@@ -1,0 +1,21 @@
+** Drc report for racebot_main.kicad_pcb **
+** Created on 2026-10-28T20:20:17 **
+** Report includes: Errors, Warnings, Exclusions **
+
+** Found 1 DRC violations **
+[lib_footprint_mismatch]: Footprint 'CP_Radial_D6.3mm_P2.50mm' does not match copy in library 'Capacitor_THT'
+    Local override; warning
+    @(194.4500 mm, 144.5000 mm): Footprint C103
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** Ignored checks **
+    - Footprint has no courtyard defined
+    - Track endpoint not centered on via
+    - Tuning profile track geometries
+    - Footprint doesn't match symbol's footprint filters
+    - Footprint component type doesn't match footprint pads
+
+** End of Report **

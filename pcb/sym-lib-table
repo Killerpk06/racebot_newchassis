@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "racebot")(type "KiCad")(uri "${KIPRJMOD}/racebot.kicad_sym")(options "")(descr "racebot project symbols"))
+)

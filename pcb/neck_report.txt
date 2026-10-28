@@ -1,0 +1,25 @@
+VMOT  J102 -> U401.7 (VS)                   7.7 mm
+VMOT  J102 -> U402.7 (VS)                   8.6 mm
+VMOT  J102 -> U501.7 (VS)                   6.2 mm
+VMOT  J102 -> U502.7 (VS)                   6.2 mm
+VMOT  J102 -> U101.1 (buck VIN)             2.3 mm
+BAT_POS J101+ -> F101                       7.0 mm
+VBAT_F  F101 -> J102 (switch)               9.7 mm
+BAT_NEG J101- -> Q101 drain                 8.6 mm
+GND   Q101 source -> island vias (F)        9.5 mm
+GND   U401.1 -> island vias (F)             8.0 mm
+GND   U402.1 -> island vias (F)             6.6 mm
+GND   U501.1 -> island vias (F)            10.4 mm
+GND   U502.1 -> island vias (F)             8.1 mm
+GND   plane Q101 -> U401 island (B)        12.7 mm
+GND   plane Q101 -> U402 island (B)        30.8 mm
+GND   plane Q101 -> U501 island (B)         9.6 mm
+GND   plane Q101 -> U502 island (B)         9.6 mm
+L_OUT_A U401 tab -> J401.1 (F)             13.5 mm
+L_OUT_A J401.1 -> J402.1 (B)                5.0 mm
+L_OUT_B U402 tab -> J402.2 (F)             13.4 mm
+L_OUT_B U402 tab -> J401.2 (F)              5.2 mm
+R_OUT_A U501 tab -> J501.2 (F)              8.4 mm
+R_OUT_A J501.2 -> J502.2 (B)                4.7 mm
+R_OUT_B U502 tab -> J502.1 (F)             13.1 mm
+R_OUT_B U502 tab -> J501.1 (F)              4.7 mm

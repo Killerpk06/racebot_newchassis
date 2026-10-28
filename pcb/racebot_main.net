@@ -1,0 +1,9012 @@
+(export
+	(version "E")
+	(design
+		(source "C:\\Users\\V PRANAV KUMAR\\Desktop\\racebot_newchassis\\pcb\\racebot_main.kicad_sch")
+		(date "2026-10-28T11:40:09")
+		(tool "Eeschema 10.0.5")
+		(sheet
+			(number "1")
+			(name "/")
+			(tstamps "/")
+			(title_block
+				(title "racebot_main - Root")
+				(company "racebot")
+				(rev "A")
+				(date "2026-10-28")
+				(source "racebot_main.kicad_sch")
+				(comment
+					(number "1")
+					(value "")
+				)
+				(comment
+					(number "2")
+					(value "")
+				)
+				(comment
+					(number "3")
+					(value "")
+				)
+				(comment
+					(number "4")
+					(value "")
+				)
+				(comment
+					(number "5")
+					(value "")
+				)
+				(comment
+					(number "6")
+					(value "")
+				)
+				(comment
+					(number "7")
+					(value "")
+				)
+				(comment
+					(number "8")
+					(value "")
+				)
+				(comment
+					(number "9")
+					(value "")
+				)
+			)
+		)
+		(sheet
+			(number "2")
+			(name "/Power/")
+			(tstamps "/00ec492d-9339-5d7a-8486-9b9a74acfcd6/")
+			(title_block
+				(title "racebot_main - Power")
+				(company "racebot")
+				(rev "A")
+				(date "2026-10-28")
+				(source "power.kicad_sch")
+				(comment
+					(number "1")
+					(value "")
+				)
+				(comment
+					(number "2")
+					(value "")
+				)
+				(comment
+					(number "3")
+					(value "")
+				)
+				(comment
+					(number "4")
+					(value "")
+				)
+				(comment
+					(number "5")
+					(value "")
+				)
+				(comment
+					(number "6")
+					(value "")
+				)
+				(comment
+					(number "7")
+					(value "")
+				)
+				(comment
+					(number "8")
+					(value "")
+				)
+				(comment
+					(number "9")
+					(value "")
+				)
+			)
+		)
+		(sheet
+			(number "3")
+			(name "/MCU+RX/")
+			(tstamps "/b7a2070e-3baa-5195-ac9b-1070a5a93838/")
+			(title_block
+				(title "racebot_main - MCU+RX")
+				(company "racebot")
+				(rev "A")
+				(date "2026-10-28")
+				(source "mcu_rx.kicad_sch")
+				(comment
+					(number "1")
+					(value "")
+				)
+				(comment
+					(number "2")
+					(value "")
+				)
+				(comment
+					(number "3")
+					(value "")
+				)
+				(comment
+					(number "4")
+					(value "")
+				)
+				(comment
+					(number "5")
+					(value "")
+				)
+				(comment
+					(number "6")
+					(value "")
+				)
+				(comment
+					(number "7")
+					(value "")
+				)
+				(comment
+					(number "8")
+					(value "")
+				)
+				(comment
+					(number "9")
+					(value "")
+				)
+			)
+		)
+		(sheet
+			(number "4")
+			(name "/Logic Buffer/")
+			(tstamps "/06f16604-11be-5c22-91c5-6dbdd5e6a123/")
+			(title_block
+				(title "racebot_main - Logic Buffer")
+				(company "racebot")
+				(rev "A")
+				(date "2026-10-28")
+				(source "logic_buffer.kicad_sch")
+				(comment
+					(number "1")
+					(value "")
+				)
+				(comment
+					(number "2")
+					(value "")
+				)
+				(comment
+					(number "3")
+					(value "")
+				)
+				(comment
+					(number "4")
+					(value "")
+				)
+				(comment
+					(number "5")
+					(value "")
+				)
+				(comment
+					(number "6")
+					(value "")
+				)
+				(comment
+					(number "7")
+					(value "")
+				)
+				(comment
+					(number "8")
+					(value "")
+				)
+				(comment
+					(number "9")
+					(value "")
+				)
+			)
+		)
+		(sheet
+			(number "5")
+			(name "/Motor Bridge L/")
+			(tstamps "/23664867-9cca-548c-b0d6-4531eea44e27/")
+			(title_block
+				(title "racebot_main - Motor Bridge L")
+				(company "racebot")
+				(rev "A")
+				(date "2026-10-28")
+				(source "motor_bridge_L.kicad_sch")
+				(comment
+					(number "1")
+					(value "")
+				)
+				(comment
+					(number "2")
+					(value "")
+				)
+				(comment
+					(number "3")
+					(value "")
+				)
+				(comment
+					(number "4")
+					(value "")
+				)
+				(comment
+					(number "5")
+					(value "")
+				)
+				(comment
+					(number "6")
+					(value "")
+				)
+				(comment
+					(number "7")
+					(value "")
+				)
+				(comment
+					(number "8")
+					(value "")
+				)
+				(comment
+					(number "9")
+					(value "")
+				)
+			)
+		)
+		(sheet
+			(number "6")
+			(name "/Motor Bridge R/")
+			(tstamps "/e9638288-aec7-583a-9cae-09a7ccd65ee4/")
+			(title_block
+				(title "racebot_main - Motor Bridge R")
+				(company "racebot")
+				(rev "A")
+				(date "2026-10-28")
+				(source "motor_bridge_R.kicad_sch")
+				(comment
+					(number "1")
+					(value "")
+				)
+				(comment
+					(number "2")
+					(value "")
+				)
+				(comment
+					(number "3")
+					(value "")
+				)
+				(comment
+					(number "4")
+					(value "")
+				)
+				(comment
+					(number "5")
+					(value "")
+				)
+				(comment
+					(number "6")
+					(value "")
+				)
+				(comment
+					(number "7")
+					(value "")
+				)
+				(comment
+					(number "8")
+					(value "")
+				)
+				(comment
+					(number "9")
+					(value "")
+				)
+			)
+		)
+	)
+	(components
+		(comp
+			(ref "C101")
+			(value "220uF 35V")
+			(footprint "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm")
+			(description "Polarized capacitor")
+			(fields
+				(field
+					(name "LCSC") "C346959")
+				(field
+					(name "MPN") "NXH35V220M8*11.5 3.5TP")
+				(field
+					(name "Footprint") "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Polarized capacitor")
+			)
+			(libsource
+				(lib "Device")
+				(part "C_Polarized")
+				(description "Polarized capacitor")
+			)
+			(property
+				(name "LCSC")
+				(value "C346959")
+			)
+			(property
+				(name "MPN")
+				(value "NXH35V220M8*11.5 3.5TP")
+			)
+			(property
+				(name "Sheetname")
+				(value "Power")
+			)
+			(property
+				(name "Sheetfile")
+				(value "power.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "CP_*")
+			)
+			(sheetpath
+				(names "/Power/")
+				(tstamps "/00ec492d-9339-5d7a-8486-9b9a74acfcd6/")
+			)
+			(tstamps "eb6b356d-c5ff-5607-88da-edf30186e94f")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C102")
+			(value "100nF 50V X7R")
+			(footprint "Capacitor_SMD:C_0603_1608Metric")
+			(description "Unpolarized capacitor")
+			(fields
+				(field
+					(name "LCSC") "C14663")
+				(field
+					(name "MPN") "CC0603KRX7R9BB104")
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Unpolarized capacitor")
+			)
+			(libsource
+				(lib "Device")
+				(part "C")
+				(description "Unpolarized capacitor")
+			)
+			(property
+				(name "LCSC")
+				(value "C14663")
+			)
+			(property
+				(name "MPN")
+				(value "CC0603KRX7R9BB104")
+			)
+			(property
+				(name "Sheetname")
+				(value "Power")
+			)
+			(property
+				(name "Sheetfile")
+				(value "power.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/Power/")
+				(tstamps "/00ec492d-9339-5d7a-8486-9b9a74acfcd6/")
+			)
+			(tstamps "93d14afe-74bb-5b3e-b770-e57d396f223c")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C103")
+			(value "220uF 16V low-ESR")
+			(footprint "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm")
+			(description "Polarized capacitor")
+			(fields
+				(field
+					(name "LCSC") "C88757")
+				(field
+					(name "MPN") "16YXJ220M6.3X11")
+				(field
+					(name "Footprint") "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Polarized capacitor")
+			)
+			(libsource
+				(lib "Device")
+				(part "C_Polarized")
+				(description "Polarized capacitor")
+			)
+			(property
+				(name "LCSC")
+				(value "C88757")
+			)
+			(property
+				(name "MPN")
+				(value "16YXJ220M6.3X11")
+			)
+			(property
+				(name "Sheetname")
+				(value "Power")
+			)
+			(property
+				(name "Sheetfile")
+				(value "power.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "CP_*")
+			)
+			(sheetpath
+				(names "/Power/")
+				(tstamps "/00ec492d-9339-5d7a-8486-9b9a74acfcd6/")
+			)
+			(tstamps "e109f245-6852-5a4e-87c3-c321f9b4fb7f")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C104")
+			(value "100nF 50V X7R")
+			(footprint "Capacitor_SMD:C_0603_1608Metric")
+			(description "Unpolarized capacitor")
+			(fields
+				(field
+					(name "LCSC") "C14663")
+				(field
+					(name "MPN") "CC0603KRX7R9BB104")
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Unpolarized capacitor")
+			)
+			(libsource
+				(lib "Device")
+				(part "C")
+				(description "Unpolarized capacitor")
+			)
+			(property
+				(name "LCSC")
+				(value "C14663")
+			)
+			(property
+				(name "MPN")
+				(value "CC0603KRX7R9BB104")
+			)
+			(property
+				(name "Sheetname")
+				(value "Power")
+			)
+			(property
+				(name "Sheetfile")
+				(value "power.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/Power/")
+				(tstamps "/00ec492d-9339-5d7a-8486-9b9a74acfcd6/")
+			)
+			(tstamps "f4803d7f-b7f9-560d-900d-f3d933456c91")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C105")
+			(value "100nF 50V X7R")
+			(footprint "Capacitor_SMD:C_0603_1608Metric")
+			(description "Unpolarized capacitor")
+			(fields
+				(field
+					(name "LCSC") "C14663")
+				(field
+					(name "MPN") "CC0603KRX7R9BB104")
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Unpolarized capacitor")
+			)
+			(libsource
+				(lib "Device")
+				(part "C")
+				(description "Unpolarized capacitor")
+			)
+			(property
+				(name "LCSC")
+				(value "C14663")
+			)
+			(property
+				(name "MPN")
+				(value "CC0603KRX7R9BB104")
+			)
+			(property
+				(name "Sheetname")
+				(value "Power")
+			)
+			(property
+				(name "Sheetfile")
+				(value "power.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/Power/")
+				(tstamps "/00ec492d-9339-5d7a-8486-9b9a74acfcd6/")
+			)
+			(tstamps "70341e75-cf45-53d3-84bb-14544efb46b1")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D101")
+			(value "BZT52C12")
+			(footprint "Diode_SMD:D_SOD-123")
+			(datasheet "https://diotec.com/tl_files/diotec/files/pdf/datasheets/bzt52b2v4.pdf")
+			(description "500mW Zener Diode, SOD-123F")
+			(fields
+				(field
+					(name "LCSC") "C12747")
+				(field
+					(name "MPN") "LBZT52C12T1G")
+				(field
+					(name "Footprint") "Diode_SMD:D_SOD-123")
+				(field
+					(name "Datasheet") "https://diotec.com/tl_files/diotec/files/pdf/datasheets/bzt52b2v4.pdf")
+				(field
+					(name "Description") "500mW Zener Diode, SOD-123F")
+			)
+			(libsource
+				(lib "Diode")
+				(part "BZT52Bxx")
+				(description "500mW Zener Diode, SOD-123F")
+			)
+			(property
+				(name "LCSC")
+				(value "C12747")
+			)
+			(property
+				(name "MPN")
+				(value "LBZT52C12T1G")
+			)
+			(property
+				(name "Sheetname")
+				(value "Power")
+			)
+			(property
+				(name "Sheetfile")
+				(value "power.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "zener diode")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "D?SOD?123F*")
+			)
+			(sheetpath
+				(names "/Power/")
+				(tstamps "/00ec492d-9339-5d7a-8486-9b9a74acfcd6/")
+			)
+			(tstamps "d8c21dbb-dc33-5926-8ca4-503b348a513f")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D102")
+			(value "SMCJ15A")
+			(footprint "Diode_SMD:D_SMC")
+			(description "Zener diode")
+			(fields
+				(field
+					(name "LCSC") "C135138")
+				(field
+					(name "MPN") "SMCJ15A-13-F")
+				(field
+					(name "Note") "Unidirectional TVS 15 V standoff, clamps ~24.4 V")
+				(field
+					(name "Footprint") "Diode_SMD:D_SMC")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Zener diode")
+			)
+			(libsource
+				(lib "Device")
+				(part "D_Zener")
+				(description "Zener diode")
+			)
+			(property
+				(name "LCSC")
+				(value "C135138")
+			)
+			(property
+				(name "MPN")
+				(value "SMCJ15A-13-F")
+			)
+			(property
+				(name "Note")
+				(value "Unidirectional TVS 15 V standoff, clamps ~24.4 V")
+			)
+			(property
+				(name "Sheetname")
+				(value "Power")
+			)
+			(property
+				(name "Sheetfile")
+				(value "power.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "diode")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "TO-???* *_Diode_* *SingleDiode* D_*")
+			)
+			(sheetpath
+				(names "/Power/")
+				(tstamps "/00ec492d-9339-5d7a-8486-9b9a74acfcd6/")
+			)
+			(tstamps "0dcdbd89-d67a-5c99-b7db-3f583a1d071a")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D103")
+			(value "SS34")
+			(footprint "Diode_SMD:D_SMA")
+			(datasheet "https://www.vishay.com/docs/88751/ss32.pdf")
+			(description "40V 3A Schottky Diode, SMA")
+			(fields
+				(field
+					(name "LCSC") "C8678")
+				(field
+					(name "MPN") "SS34")
+				(field
+					(name "Footprint") "Diode_SMD:D_SMA")
+				(field
+					(name "Datasheet") "https://www.vishay.com/docs/88751/ss32.pdf")
+				(field
+					(name "Description") "40V 3A Schottky Diode, SMA")
+			)
+			(libsource
+				(lib "Diode")
+				(part "SS34")
+				(description "40V 3A Schottky Diode, SMA")
+			)
+			(property
+				(name "LCSC")
+				(value "C8678")
+			)
+			(property
+				(name "MPN")
+				(value "SS34")
+			)
+			(property
+				(name "Sheetname")
+				(value "Power")
+			)
+			(property
+				(name "Sheetfile")
+				(value "power.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "diode Schottky")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "D*SMA*")
+			)
+			(sheetpath
+				(names "/Power/")
+				(tstamps "/00ec492d-9339-5d7a-8486-9b9a74acfcd6/")
+			)
+			(tstamps "1dec0f65-d5e9-5032-aec2-abf3eed59ef1")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D104")
+			(value "RED 5V")
+			(footprint "LED_SMD:LED_0603_1608Metric")
+			(description "Light emitting diode")
+			(fields
+				(field
+					(name "LCSC") "C2286")
+				(field
+					(name "MPN") "KT-0603R")
+				(field
+					(name "Footprint") "LED_SMD:LED_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Light emitting diode")
+			)
+			(libsource
+				(lib "Device")
+				(part "LED")
+				(description "Light emitting diode")
+			)
+			(property
+				(name "LCSC")
+				(value "C2286")
+			)
+			(property
+				(name "MPN")
+				(value "KT-0603R")
+			)
+			(property
+				(name "Sheetname")
+				(value "Power")
+			)
+			(property
+				(name "Sheetfile")
+				(value "power.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "LED diode")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "LED* LED_SMD:* LED_THT:*")
+			)
+			(sheetpath
+				(names "/Power/")
+				(tstamps "/00ec492d-9339-5d7a-8486-9b9a74acfcd6/")
+			)
+			(tstamps "38b2a33b-cb2a-53a4-95b9-980e30522adf")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D105")
+			(value "RED VMOT")
+			(footprint "LED_SMD:LED_0603_1608Metric")
+			(description "Light emitting diode")
+			(fields
+				(field
+					(name "LCSC") "C2286")
+				(field
+					(name "MPN") "KT-0603R")
+				(field
+					(name "Footprint") "LED_SMD:LED_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Light emitting diode")
+			)
+			(libsource
+				(lib "Device")
+				(part "LED")
+				(description "Light emitting diode")
+			)
+			(property
+				(name "LCSC")
+				(value "C2286")
+			)
+			(property
+				(name "MPN")
+				(value "KT-0603R")
+			)
+			(property
+				(name "Sheetname")
+				(value "Power")
+			)
+			(property
+				(name "Sheetfile")
+				(value "power.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "LED diode")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "LED* LED_SMD:* LED_THT:*")
+			)
+			(sheetpath
+				(names "/Power/")
+				(tstamps "/00ec492d-9339-5d7a-8486-9b9a74acfcd6/")
+			)
+			(tstamps "8946a979-7d8f-5492-acd2-b5b262f9b39c")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "F101")
+			(value "30A ATO")
+			(footprint "Fuse:FuseHolder_Blade_ATO_Littelfuse_FLR_178.6165")
+			(description "Fuse")
+			(fields
+				(field
+					(name "LCSC") "C207061")
+				(field
+					(name "MPN") "178.6165.0002")
+				(field
+					(name "Note") "ATO holder; fit 30 A ATO blade fuse")
+				(field
+					(name "Footprint") "Fuse:FuseHolder_Blade_ATO_Littelfuse_FLR_178.6165")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Fuse")
+			)
+			(libsource
+				(lib "Device")
+				(part "Fuse")
+				(description "Fuse")
+			)
+			(property
+				(name "LCSC")
+				(value "C207061")
+			)
+			(property
+				(name "MPN")
+				(value "178.6165.0002")
+			)
+			(property
+				(name "Note")
+				(value "ATO holder; fit 30 A ATO blade fuse")
+			)
+			(property
+				(name "Sheetname")
+				(value "Power")
+			)
+			(property
+				(name "Sheetfile")
+				(value "power.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "fuse")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "*Fuse*")
+			)
+			(sheetpath
+				(names "/Power/")
+				(tstamps "/00ec492d-9339-5d7a-8486-9b9a74acfcd6/")
+			)
+			(tstamps "f4ff7ceb-d5ce-5351-ba6b-5eb546469892")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "J101")
+			(value "XT60 BATTERY")
+			(footprint "Connector_AMASS:AMASS_XT60-M_1x02_P7.20mm_Vertical")
+			(description "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)")
+			(fields
+				(field
+					(name "LCSC") "C19268037")
+				(field
+					(name "MPN") "XT60PB-M.G.Y")
+				(field
+					(name "Note") "vertical; pin1 (bevelled end) = -, pin2 = +. Check against battery plug")
+				(field
+					(name "Footprint") "Connector_AMASS:AMASS_XT60-M_1x02_P7.20mm_Vertical")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)")
+			)
+			(libsource
+				(lib "Connector_Generic")
+				(part "Conn_01x02")
+				(description "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)")
+			)
+			(property
+				(name "LCSC")
+				(value "C19268037")
+			)
+			(property
+				(name "MPN")
+				(value "XT60PB-M.G.Y")
+			)
+			(property
+				(name "Note")
+				(value "vertical; pin1 (bevelled end) = -, pin2 = +. Check against battery plug")
+			)
+			(property
+				(name "Sheetname")
+				(value "Power")
+			)
+			(property
+				(name "Sheetfile")
+				(value "power.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "connector")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "Connector*:*_1x??_*")
+			)
+			(sheetpath
+				(names "/Power/")
+				(tstamps "/00ec492d-9339-5d7a-8486-9b9a74acfcd6/")
+			)
+			(tstamps "dedb055e-a805-5e1c-9b31-1cc30d905dd2")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "J102")
+			(value "PWR SWITCH / KILL LINK")
+			(footprint "Connector_AMASS:AMASS_XT60-F_1x02_P7.20mm_Vertical")
+			(description "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)")
+			(fields
+				(field
+					(name "LCSC") "C19268038")
+				(field
+					(name "MPN") "XT60PB-F.G.Y")
+				(field
+					(name "Note") "Plug a shorted XT60 link, or a >=30 A switch on an XT60 lead. See LAYOUT_NOTES.md")
+				(field
+					(name "Footprint") "Connector_AMASS:AMASS_XT60-F_1x02_P7.20mm_Vertical")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)")
+			)
+			(libsource
+				(lib "Connector_Generic")
+				(part "Conn_01x02")
+				(description "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)")
+			)
+			(property
+				(name "LCSC")
+				(value "C19268038")
+			)
+			(property
+				(name "MPN")
+				(value "XT60PB-F.G.Y")
+			)
+			(property
+				(name "Note")
+				(value "Plug a shorted XT60 link, or a >=30 A switch on an XT60 lead. See LAYOUT_NOTES.md")
+			)
+			(property
+				(name "Sheetname")
+				(value "Power")
+			)
+			(property
+				(name "Sheetfile")
+				(value "power.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "connector")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "Connector*:*_1x??_*")
+			)
+			(sheetpath
+				(names "/Power/")
+				(tstamps "/00ec492d-9339-5d7a-8486-9b9a74acfcd6/")
+			)
+			(tstamps "d0d7d8f0-a364-586d-8089-b4f64629e588")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "L101")
+			(value "33uH 4.6A")
+			(footprint "Inductor_SMD:L_Bourns_SRR1260")
+			(description "Inductor")
+			(fields
+				(field
+					(name "LCSC") "C840528")
+				(field
+					(name "MPN") "SRR1260-330M")
+				(field
+					(name "Footprint") "Inductor_SMD:L_Bourns_SRR1260")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Inductor")
+			)
+			(libsource
+				(lib "Device")
+				(part "L")
+				(description "Inductor")
+			)
+			(property
+				(name "LCSC")
+				(value "C840528")
+			)
+			(property
+				(name "MPN")
+				(value "SRR1260-330M")
+			)
+			(property
+				(name "Sheetname")
+				(value "Power")
+			)
+			(property
+				(name "Sheetfile")
+				(value "power.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "inductor choke coil reactor magnetic")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "Choke_* *Coil* Inductor_* L_*")
+			)
+			(sheetpath
+				(names "/Power/")
+				(tstamps "/00ec492d-9339-5d7a-8486-9b9a74acfcd6/")
+			)
+			(tstamps "872c66cd-0bb3-5340-a4e6-22620373cad2")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "Q101")
+			(value "CSD18540Q5B")
+			(footprint "Package_TO_SOT_SMD:TDSON-8-1")
+			(datasheet "http://www.ti.com/lit/gpn/csd18540q5b")
+			(description "100A Id, 60V Vds, NexFET N-Channel Power MOSFET, 2.2mOhm Ron, 41nC Qg(typ), SON8 5x6mm")
+			(fields
+				(field
+					(name "LCSC") "C86513")
+				(field
+					(name "MPN") "CSD18540Q5B")
+				(field
+					(name "Footprint") "Package_TO_SOT_SMD:TDSON-8-1")
+				(field
+					(name "Datasheet") "http://www.ti.com/lit/gpn/csd18540q5b")
+				(field
+					(name "Description") "100A Id, 60V Vds, NexFET N-Channel Power MOSFET, 2.2mOhm Ron, 41nC Qg(typ), SON8 5x6mm")
+			)
+			(libsource
+				(lib "Transistor_FET")
+				(part "CSD18540Q5B")
+				(description "100A Id, 60V Vds, NexFET N-Channel Power MOSFET, 2.2mOhm Ron, 41nC Qg(typ), SON8 5x6mm")
+			)
+			(property
+				(name "LCSC")
+				(value "C86513")
+			)
+			(property
+				(name "MPN")
+				(value "CSD18540Q5B")
+			)
+			(property
+				(name "Sheetname")
+				(value "Power")
+			)
+			(property
+				(name "Sheetfile")
+				(value "power.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "NexFET Power MOSFET N-MOS")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "TDSON*")
+			)
+			(sheetpath
+				(names "/Power/")
+				(tstamps "/00ec492d-9339-5d7a-8486-9b9a74acfcd6/")
+			)
+			(tstamps "516ab92c-0b31-5cc6-99eb-7d289b7d0301")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "5")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R101")
+			(value "10k")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "LCSC") "C25804")
+				(field
+					(name "MPN") "0603WAF1002T5E")
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "LCSC")
+				(value "C25804")
+			)
+			(property
+				(name "MPN")
+				(value "0603WAF1002T5E")
+			)
+			(property
+				(name "Sheetname")
+				(value "Power")
+			)
+			(property
+				(name "Sheetfile")
+				(value "power.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/Power/")
+				(tstamps "/00ec492d-9339-5d7a-8486-9b9a74acfcd6/")
+			)
+			(tstamps "50764ecc-fd72-554f-96f3-5b8283bfe280")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R102")
+			(value "100k")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "LCSC") "C25803")
+				(field
+					(name "MPN") "0603WAF1003T5E")
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "LCSC")
+				(value "C25803")
+			)
+			(property
+				(name "MPN")
+				(value "0603WAF1003T5E")
+			)
+			(property
+				(name "Sheetname")
+				(value "Power")
+			)
+			(property
+				(name "Sheetfile")
+				(value "power.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/Power/")
+				(tstamps "/00ec492d-9339-5d7a-8486-9b9a74acfcd6/")
+			)
+			(tstamps "20cd45d2-ce52-5dd1-950b-ed2016a46d81")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R103")
+			(value "100k")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "LCSC") "C25803")
+				(field
+					(name "MPN") "0603WAF1003T5E")
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "LCSC")
+				(value "C25803")
+			)
+			(property
+				(name "MPN")
+				(value "0603WAF1003T5E")
+			)
+			(property
+				(name "Sheetname")
+				(value "Power")
+			)
+			(property
+				(name "Sheetfile")
+				(value "power.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/Power/")
+				(tstamps "/00ec492d-9339-5d7a-8486-9b9a74acfcd6/")
+			)
+			(tstamps "44b0b73f-a41c-5da3-89c6-f9ca2e04926e")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R104")
+			(value "22k")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "LCSC") "C31850")
+				(field
+					(name "MPN") "0603WAF2202T5E")
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "LCSC")
+				(value "C31850")
+			)
+			(property
+				(name "MPN")
+				(value "0603WAF2202T5E")
+			)
+			(property
+				(name "Sheetname")
+				(value "Power")
+			)
+			(property
+				(name "Sheetfile")
+				(value "power.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/Power/")
+				(tstamps "/00ec492d-9339-5d7a-8486-9b9a74acfcd6/")
+			)
+			(tstamps "6207c34a-23cc-5071-92cd-89af3232ed4d")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R105")
+			(value "1k")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "LCSC") "C21190")
+				(field
+					(name "MPN") "0603WAF1001T5E")
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "LCSC")
+				(value "C21190")
+			)
+			(property
+				(name "MPN")
+				(value "0603WAF1001T5E")
+			)
+			(property
+				(name "Sheetname")
+				(value "Power")
+			)
+			(property
+				(name "Sheetfile")
+				(value "power.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/Power/")
+				(tstamps "/00ec492d-9339-5d7a-8486-9b9a74acfcd6/")
+			)
+			(tstamps "5df1ed40-11d3-52da-ad82-889d1ed95bc4")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R106")
+			(value "4.7k")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "LCSC") "C23162")
+				(field
+					(name "MPN") "0603WAF4701T5E")
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "LCSC")
+				(value "C23162")
+			)
+			(property
+				(name "MPN")
+				(value "0603WAF4701T5E")
+			)
+			(property
+				(name "Sheetname")
+				(value "Power")
+			)
+			(property
+				(name "Sheetfile")
+				(value "power.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/Power/")
+				(tstamps "/00ec492d-9339-5d7a-8486-9b9a74acfcd6/")
+			)
+			(tstamps "51bfb5d1-64cd-5acc-9f62-3795446d7aa4")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "U101")
+			(value "LM2596S-5.0")
+			(footprint "Package_TO_SOT_SMD:TO-263-5_TabPin3")
+			(datasheet "http://www.ti.com/lit/ds/symlink/lm2596.pdf")
+			(description "5V 3A Step-Down Voltage Regulator, TO-263")
+			(fields
+				(field
+					(name "LCSC") "C116713")
+				(field
+					(name "MPN") "LM2596S-5.0/NOPB")
+				(field
+					(name "Footprint") "Package_TO_SOT_SMD:TO-263-5_TabPin3")
+				(field
+					(name "Datasheet") "http://www.ti.com/lit/ds/symlink/lm2596.pdf")
+				(field
+					(name "Description") "5V 3A Step-Down Voltage Regulator, TO-263")
+			)
+			(libsource
+				(lib "Regulator_Switching")
+				(part "LM2596S-5")
+				(description "5V 3A Step-Down Voltage Regulator, TO-263")
+			)
+			(property
+				(name "LCSC")
+				(value "C116713")
+			)
+			(property
+				(name "MPN")
+				(value "LM2596S-5.0/NOPB")
+			)
+			(property
+				(name "Sheetname")
+				(value "Power")
+			)
+			(property
+				(name "Sheetfile")
+				(value "power.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "Step-Down Voltage Regulator 5V 3A")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "TO?263*")
+			)
+			(sheetpath
+				(names "/Power/")
+				(tstamps "/00ec492d-9339-5d7a-8486-9b9a74acfcd6/")
+			)
+			(tstamps "592cc746-d05a-54ec-827a-45d340e704d8")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "5")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D201")
+			(value "RED STATUS")
+			(footprint "LED_SMD:LED_0603_1608Metric")
+			(description "Light emitting diode")
+			(fields
+				(field
+					(name "LCSC") "C2286")
+				(field
+					(name "MPN") "KT-0603R")
+				(field
+					(name "Footprint") "LED_SMD:LED_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Light emitting diode")
+			)
+			(libsource
+				(lib "Device")
+				(part "LED")
+				(description "Light emitting diode")
+			)
+			(property
+				(name "LCSC")
+				(value "C2286")
+			)
+			(property
+				(name "MPN")
+				(value "KT-0603R")
+			)
+			(property
+				(name "Sheetname")
+				(value "MCU+RX")
+			)
+			(property
+				(name "Sheetfile")
+				(value "mcu_rx.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "LED diode")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "LED* LED_SMD:* LED_THT:*")
+			)
+			(sheetpath
+				(names "/MCU+RX/")
+				(tstamps "/b7a2070e-3baa-5195-ac9b-1070a5a93838/")
+			)
+			(tstamps "08bf3bea-3090-5a32-8c2a-f40030dc0f68")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "J201")
+			(value "ESP32 DevKit left row")
+			(footprint "Connector_PinSocket_2.54mm:PinSocket_1x19_P2.54mm_Vertical")
+			(description "1x19 female header row for a 38-pin ESP32-WROOM-32 DevKit (DevKitC V4 pin order)")
+			(fields
+				(field
+					(name "LCSC") "C319202")
+				(field
+					(name "MPN") "2.54-1*19PFemale")
+				(field
+					(name "Footprint") "Connector_PinSocket_2.54mm:PinSocket_1x19_P2.54mm_Vertical")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "1x19 female header row for a 38-pin ESP32-WROOM-32 DevKit (DevKitC V4 pin order)")
+			)
+			(libsource
+				(lib "racebot")
+				(part "ESP32_DevKit38_L")
+				(description "1x19 female header row for a 38-pin ESP32-WROOM-32 DevKit (DevKitC V4 pin order)")
+			)
+			(property
+				(name "LCSC")
+				(value "C319202")
+			)
+			(property
+				(name "MPN")
+				(value "2.54-1*19PFemale")
+			)
+			(property
+				(name "Sheetname")
+				(value "MCU+RX")
+			)
+			(property
+				(name "Sheetfile")
+				(value "mcu_rx.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "ESP32 devkit header")
+			)
+			(sheetpath
+				(names "/MCU+RX/")
+				(tstamps "/b7a2070e-3baa-5195-ac9b-1070a5a93838/")
+			)
+			(tstamps "588b3fac-955e-5d1a-b3ab-5fadfba25ba7")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "5")
+						)
+						(pin
+							(num "6")
+						)
+						(pin
+							(num "7")
+						)
+						(pin
+							(num "8")
+						)
+						(pin
+							(num "9")
+						)
+						(pin
+							(num "10")
+						)
+						(pin
+							(num "11")
+						)
+						(pin
+							(num "12")
+						)
+						(pin
+							(num "13")
+						)
+						(pin
+							(num "14")
+						)
+						(pin
+							(num "15")
+						)
+						(pin
+							(num "16")
+						)
+						(pin
+							(num "17")
+						)
+						(pin
+							(num "18")
+						)
+						(pin
+							(num "19")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "J202")
+			(value "ESP32 DevKit right row")
+			(footprint "Connector_PinSocket_2.54mm:PinSocket_1x19_P2.54mm_Vertical")
+			(description "1x19 female header row for a 38-pin ESP32-WROOM-32 DevKit (DevKitC V4 pin order)")
+			(fields
+				(field
+					(name "LCSC") "C319202")
+				(field
+					(name "MPN") "2.54-1*19PFemale")
+				(field
+					(name "Footprint") "Connector_PinSocket_2.54mm:PinSocket_1x19_P2.54mm_Vertical")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "1x19 female header row for a 38-pin ESP32-WROOM-32 DevKit (DevKitC V4 pin order)")
+			)
+			(libsource
+				(lib "racebot")
+				(part "ESP32_DevKit38_R")
+				(description "1x19 female header row for a 38-pin ESP32-WROOM-32 DevKit (DevKitC V4 pin order)")
+			)
+			(property
+				(name "LCSC")
+				(value "C319202")
+			)
+			(property
+				(name "MPN")
+				(value "2.54-1*19PFemale")
+			)
+			(property
+				(name "Sheetname")
+				(value "MCU+RX")
+			)
+			(property
+				(name "Sheetfile")
+				(value "mcu_rx.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "ESP32 devkit header")
+			)
+			(sheetpath
+				(names "/MCU+RX/")
+				(tstamps "/b7a2070e-3baa-5195-ac9b-1070a5a93838/")
+			)
+			(tstamps "f2d15b75-109e-512e-abe1-eea78034054d")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "5")
+						)
+						(pin
+							(num "6")
+						)
+						(pin
+							(num "7")
+						)
+						(pin
+							(num "8")
+						)
+						(pin
+							(num "9")
+						)
+						(pin
+							(num "10")
+						)
+						(pin
+							(num "11")
+						)
+						(pin
+							(num "12")
+						)
+						(pin
+							(num "13")
+						)
+						(pin
+							(num "14")
+						)
+						(pin
+							(num "15")
+						)
+						(pin
+							(num "16")
+						)
+						(pin
+							(num "17")
+						)
+						(pin
+							(num "18")
+						)
+						(pin
+							(num "19")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "J203")
+			(value "ELRS RX (5V GND TX RX)")
+			(footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
+			(description "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)")
+			(fields
+				(field
+					(name "LCSC") "C492403")
+				(field
+					(name "MPN") "PZ254V-11-04P")
+				(field
+					(name "Footprint") "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)")
+			)
+			(libsource
+				(lib "Connector_Generic")
+				(part "Conn_01x04")
+				(description "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)")
+			)
+			(property
+				(name "LCSC")
+				(value "C492403")
+			)
+			(property
+				(name "MPN")
+				(value "PZ254V-11-04P")
+			)
+			(property
+				(name "Sheetname")
+				(value "MCU+RX")
+			)
+			(property
+				(name "Sheetfile")
+				(value "mcu_rx.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "connector")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "Connector*:*_1x??_*")
+			)
+			(sheetpath
+				(names "/MCU+RX/")
+				(tstamps "/b7a2070e-3baa-5195-ac9b-1070a5a93838/")
+			)
+			(tstamps "914ed708-6f29-557b-a2e1-9a4f0536e4ae")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "4")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R201")
+			(value "1k")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "LCSC") "C21190")
+				(field
+					(name "MPN") "0603WAF1001T5E")
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "LCSC")
+				(value "C21190")
+			)
+			(property
+				(name "MPN")
+				(value "0603WAF1001T5E")
+			)
+			(property
+				(name "Sheetname")
+				(value "MCU+RX")
+			)
+			(property
+				(name "Sheetfile")
+				(value "mcu_rx.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/MCU+RX/")
+				(tstamps "/b7a2070e-3baa-5195-ac9b-1070a5a93838/")
+			)
+			(tstamps "465711fd-e4b9-58aa-9eda-879e84332796")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C301")
+			(value "100nF 50V X7R")
+			(footprint "Capacitor_SMD:C_0603_1608Metric")
+			(description "Unpolarized capacitor")
+			(fields
+				(field
+					(name "LCSC") "C14663")
+				(field
+					(name "MPN") "CC0603KRX7R9BB104")
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Unpolarized capacitor")
+			)
+			(libsource
+				(lib "Device")
+				(part "C")
+				(description "Unpolarized capacitor")
+			)
+			(property
+				(name "LCSC")
+				(value "C14663")
+			)
+			(property
+				(name "MPN")
+				(value "CC0603KRX7R9BB104")
+			)
+			(property
+				(name "Sheetname")
+				(value "Logic Buffer")
+			)
+			(property
+				(name "Sheetfile")
+				(value "logic_buffer.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/Logic Buffer/")
+				(tstamps "/06f16604-11be-5c22-91c5-6dbdd5e6a123/")
+			)
+			(tstamps "0ec4d306-9313-5bad-902a-cc73560b5377")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R301")
+			(value "10k")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "LCSC") "C25804")
+				(field
+					(name "MPN") "0603WAF1002T5E")
+				(field
+					(name "Note") "boot pull-down")
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "LCSC")
+				(value "C25804")
+			)
+			(property
+				(name "MPN")
+				(value "0603WAF1002T5E")
+			)
+			(property
+				(name "Note")
+				(value "boot pull-down")
+			)
+			(property
+				(name "Sheetname")
+				(value "Logic Buffer")
+			)
+			(property
+				(name "Sheetfile")
+				(value "logic_buffer.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/Logic Buffer/")
+				(tstamps "/06f16604-11be-5c22-91c5-6dbdd5e6a123/")
+			)
+			(tstamps "1e4d0f40-3938-52aa-a174-3f831527c731")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R302")
+			(value "10k")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "LCSC") "C25804")
+				(field
+					(name "MPN") "0603WAF1002T5E")
+				(field
+					(name "Note") "boot pull-down")
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "LCSC")
+				(value "C25804")
+			)
+			(property
+				(name "MPN")
+				(value "0603WAF1002T5E")
+			)
+			(property
+				(name "Note")
+				(value "boot pull-down")
+			)
+			(property
+				(name "Sheetname")
+				(value "Logic Buffer")
+			)
+			(property
+				(name "Sheetfile")
+				(value "logic_buffer.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/Logic Buffer/")
+				(tstamps "/06f16604-11be-5c22-91c5-6dbdd5e6a123/")
+			)
+			(tstamps "99ce2072-bdcf-5ca2-b7f0-e0c33b9dd1e4")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R303")
+			(value "10k")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "LCSC") "C25804")
+				(field
+					(name "MPN") "0603WAF1002T5E")
+				(field
+					(name "Note") "boot pull-down")
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "LCSC")
+				(value "C25804")
+			)
+			(property
+				(name "MPN")
+				(value "0603WAF1002T5E")
+			)
+			(property
+				(name "Note")
+				(value "boot pull-down")
+			)
+			(property
+				(name "Sheetname")
+				(value "Logic Buffer")
+			)
+			(property
+				(name "Sheetfile")
+				(value "logic_buffer.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/Logic Buffer/")
+				(tstamps "/06f16604-11be-5c22-91c5-6dbdd5e6a123/")
+			)
+			(tstamps "24fd6b72-1d13-5acd-8d6c-8e3af320703f")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R304")
+			(value "10k")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "LCSC") "C25804")
+				(field
+					(name "MPN") "0603WAF1002T5E")
+				(field
+					(name "Note") "boot pull-down")
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "LCSC")
+				(value "C25804")
+			)
+			(property
+				(name "MPN")
+				(value "0603WAF1002T5E")
+			)
+			(property
+				(name "Note")
+				(value "boot pull-down")
+			)
+			(property
+				(name "Sheetname")
+				(value "Logic Buffer")
+			)
+			(property
+				(name "Sheetfile")
+				(value "logic_buffer.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/Logic Buffer/")
+				(tstamps "/06f16604-11be-5c22-91c5-6dbdd5e6a123/")
+			)
+			(tstamps "1bbf2a5f-dc3e-5668-89ff-e684b714d6d4")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R305")
+			(value "10k")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "LCSC") "C25804")
+				(field
+					(name "MPN") "0603WAF1002T5E")
+				(field
+					(name "Note") "boot pull-down")
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "LCSC")
+				(value "C25804")
+			)
+			(property
+				(name "MPN")
+				(value "0603WAF1002T5E")
+			)
+			(property
+				(name "Note")
+				(value "boot pull-down")
+			)
+			(property
+				(name "Sheetname")
+				(value "Logic Buffer")
+			)
+			(property
+				(name "Sheetfile")
+				(value "logic_buffer.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/Logic Buffer/")
+				(tstamps "/06f16604-11be-5c22-91c5-6dbdd5e6a123/")
+			)
+			(tstamps "1294667b-e568-52ab-87cd-15a794bff629")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R306")
+			(value "10k")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "LCSC") "C25804")
+				(field
+					(name "MPN") "0603WAF1002T5E")
+				(field
+					(name "Note") "boot pull-down")
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "LCSC")
+				(value "C25804")
+			)
+			(property
+				(name "MPN")
+				(value "0603WAF1002T5E")
+			)
+			(property
+				(name "Note")
+				(value "boot pull-down")
+			)
+			(property
+				(name "Sheetname")
+				(value "Logic Buffer")
+			)
+			(property
+				(name "Sheetfile")
+				(value "logic_buffer.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/Logic Buffer/")
+				(tstamps "/06f16604-11be-5c22-91c5-6dbdd5e6a123/")
+			)
+			(tstamps "59894da2-b1de-57ab-9012-e09b95b0ef70")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "U301")
+			(value "74HCT244")
+			(footprint "Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm")
+			(datasheet "https://assets.nexperia.com/documents/data-sheet/74HC_HCT244.pdf")
+			(description "8-bit Buffer/Line Driver 3-state")
+			(fields
+				(field
+					(name "LCSC") "C5978")
+				(field
+					(name "MPN") "74HCT244D,653")
+				(field
+					(name "Footprint") "Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm")
+				(field
+					(name "Datasheet") "https://assets.nexperia.com/documents/data-sheet/74HC_HCT244.pdf")
+				(field
+					(name "Description") "8-bit Buffer/Line Driver 3-state")
+			)
+			(libsource
+				(lib "74xx")
+				(part "74HCT244")
+				(description "8-bit Buffer/Line Driver 3-state")
+			)
+			(property
+				(name "LCSC")
+				(value "C5978")
+			)
+			(property
+				(name "MPN")
+				(value "74HCT244D,653")
+			)
+			(property
+				(name "Sheetname")
+				(value "Logic Buffer")
+			)
+			(property
+				(name "Sheetfile")
+				(value "logic_buffer.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "HCTMOS BUFFER 3State")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "TSSOP*4.4x6.5mm*P0.65mm* SSOP*4.4x6.5mm*P0.65mm*")
+			)
+			(sheetpath
+				(names "/Logic Buffer/")
+				(tstamps "/06f16604-11be-5c22-91c5-6dbdd5e6a123/")
+			)
+			(tstamps "e449889b-a8d9-5f44-89bc-ef4e63517dfc")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "6")
+						)
+						(pin
+							(num "8")
+						)
+						(pin
+							(num "17")
+						)
+						(pin
+							(num "15")
+						)
+						(pin
+							(num "13")
+						)
+						(pin
+							(num "11")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "19")
+						)
+						(pin
+							(num "20")
+						)
+						(pin
+							(num "10")
+						)
+						(pin
+							(num "18")
+						)
+						(pin
+							(num "16")
+						)
+						(pin
+							(num "14")
+						)
+						(pin
+							(num "12")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "5")
+						)
+						(pin
+							(num "7")
+						)
+						(pin
+							(num "9")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C401")
+			(value "10nF 50V X7R")
+			(footprint "Capacitor_SMD:C_0603_1608Metric")
+			(description "Unpolarized capacitor")
+			(fields
+				(field
+					(name "LCSC") "C57112")
+				(field
+					(name "MPN") "0603B103K500NT")
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Unpolarized capacitor")
+			)
+			(libsource
+				(lib "Device")
+				(part "C")
+				(description "Unpolarized capacitor")
+			)
+			(property
+				(name "LCSC")
+				(value "C57112")
+			)
+			(property
+				(name "MPN")
+				(value "0603B103K500NT")
+			)
+			(property
+				(name "Sheetname")
+				(value "Motor Bridge L")
+			)
+			(property
+				(name "Sheetfile")
+				(value "motor_bridge_L.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/Motor Bridge L/")
+				(tstamps "/23664867-9cca-548c-b0d6-4531eea44e27/")
+			)
+			(tstamps "3ef05904-88fb-5f65-a73b-a64b4802c9aa")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C402")
+			(value "470nF 50V X7R")
+			(footprint "Capacitor_SMD:C_0805_2012Metric")
+			(description "Unpolarized capacitor")
+			(fields
+				(field
+					(name "LCSC") "C13967")
+				(field
+					(name "MPN") "CL21B474KBFNNNE")
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0805_2012Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Unpolarized capacitor")
+			)
+			(libsource
+				(lib "Device")
+				(part "C")
+				(description "Unpolarized capacitor")
+			)
+			(property
+				(name "LCSC")
+				(value "C13967")
+			)
+			(property
+				(name "MPN")
+				(value "CL21B474KBFNNNE")
+			)
+			(property
+				(name "Sheetname")
+				(value "Motor Bridge L")
+			)
+			(property
+				(name "Sheetfile")
+				(value "motor_bridge_L.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/Motor Bridge L/")
+				(tstamps "/23664867-9cca-548c-b0d6-4531eea44e27/")
+			)
+			(tstamps "9411f58b-7b6b-5a09-bd90-fb84d690da06")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C403")
+			(value "100nF 50V X7R")
+			(footprint "Capacitor_SMD:C_0603_1608Metric")
+			(description "Unpolarized capacitor")
+			(fields
+				(field
+					(name "LCSC") "C14663")
+				(field
+					(name "MPN") "CC0603KRX7R9BB104")
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Unpolarized capacitor")
+			)
+			(libsource
+				(lib "Device")
+				(part "C")
+				(description "Unpolarized capacitor")
+			)
+			(property
+				(name "LCSC")
+				(value "C14663")
+			)
+			(property
+				(name "MPN")
+				(value "CC0603KRX7R9BB104")
+			)
+			(property
+				(name "Sheetname")
+				(value "Motor Bridge L")
+			)
+			(property
+				(name "Sheetfile")
+				(value "motor_bridge_L.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/Motor Bridge L/")
+				(tstamps "/23664867-9cca-548c-b0d6-4531eea44e27/")
+			)
+			(tstamps "d47869c3-51e7-5b5d-b27c-95e43a152311")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C404")
+			(value "10nF 50V X7R")
+			(footprint "Capacitor_SMD:C_0603_1608Metric")
+			(description "Unpolarized capacitor")
+			(fields
+				(field
+					(name "LCSC") "C57112")
+				(field
+					(name "MPN") "0603B103K500NT")
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Unpolarized capacitor")
+			)
+			(libsource
+				(lib "Device")
+				(part "C")
+				(description "Unpolarized capacitor")
+			)
+			(property
+				(name "LCSC")
+				(value "C57112")
+			)
+			(property
+				(name "MPN")
+				(value "0603B103K500NT")
+			)
+			(property
+				(name "Sheetname")
+				(value "Motor Bridge L")
+			)
+			(property
+				(name "Sheetfile")
+				(value "motor_bridge_L.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/Motor Bridge L/")
+				(tstamps "/23664867-9cca-548c-b0d6-4531eea44e27/")
+			)
+			(tstamps "4b9822fd-acaf-5638-8d6d-cbe762aa5cd6")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C405")
+			(value "470nF 50V X7R")
+			(footprint "Capacitor_SMD:C_0805_2012Metric")
+			(description "Unpolarized capacitor")
+			(fields
+				(field
+					(name "LCSC") "C13967")
+				(field
+					(name "MPN") "CL21B474KBFNNNE")
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0805_2012Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Unpolarized capacitor")
+			)
+			(libsource
+				(lib "Device")
+				(part "C")
+				(description "Unpolarized capacitor")
+			)
+			(property
+				(name "LCSC")
+				(value "C13967")
+			)
+			(property
+				(name "MPN")
+				(value "CL21B474KBFNNNE")
+			)
+			(property
+				(name "Sheetname")
+				(value "Motor Bridge L")
+			)
+			(property
+				(name "Sheetfile")
+				(value "motor_bridge_L.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/Motor Bridge L/")
+				(tstamps "/23664867-9cca-548c-b0d6-4531eea44e27/")
+			)
+			(tstamps "8be1fee6-deb2-589b-a9f7-bfbee4adcd0c")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C406")
+			(value "100nF 50V X7R")
+			(footprint "Capacitor_SMD:C_0603_1608Metric")
+			(description "Unpolarized capacitor")
+			(fields
+				(field
+					(name "LCSC") "C14663")
+				(field
+					(name "MPN") "CC0603KRX7R9BB104")
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Unpolarized capacitor")
+			)
+			(libsource
+				(lib "Device")
+				(part "C")
+				(description "Unpolarized capacitor")
+			)
+			(property
+				(name "LCSC")
+				(value "C14663")
+			)
+			(property
+				(name "MPN")
+				(value "CC0603KRX7R9BB104")
+			)
+			(property
+				(name "Sheetname")
+				(value "Motor Bridge L")
+			)
+			(property
+				(name "Sheetfile")
+				(value "motor_bridge_L.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/Motor Bridge L/")
+				(tstamps "/23664867-9cca-548c-b0d6-4531eea44e27/")
+			)
+			(tstamps "724569c4-5b2c-5392-9663-88b17cb5e1c9")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C407")
+			(value "470uF 25V low-ESR")
+			(footprint "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm")
+			(description "Polarized capacitor")
+			(fields
+				(field
+					(name "LCSC") "C51018322")
+				(field
+					(name "MPN") "GA25V470M10X12")
+				(field
+					(name "Footprint") "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Polarized capacitor")
+			)
+			(libsource
+				(lib "Device")
+				(part "C_Polarized")
+				(description "Polarized capacitor")
+			)
+			(property
+				(name "LCSC")
+				(value "C51018322")
+			)
+			(property
+				(name "MPN")
+				(value "GA25V470M10X12")
+			)
+			(property
+				(name "Sheetname")
+				(value "Motor Bridge L")
+			)
+			(property
+				(name "Sheetfile")
+				(value "motor_bridge_L.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "CP_*")
+			)
+			(sheetpath
+				(names "/Motor Bridge L/")
+				(tstamps "/23664867-9cca-548c-b0d6-4531eea44e27/")
+			)
+			(tstamps "07aa6cd6-c254-55c2-bb87-af7f37cc90ba")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C408")
+			(value "470uF 25V low-ESR")
+			(footprint "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm")
+			(description "Polarized capacitor")
+			(fields
+				(field
+					(name "LCSC") "C51018322")
+				(field
+					(name "MPN") "GA25V470M10X12")
+				(field
+					(name "Footprint") "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Polarized capacitor")
+			)
+			(libsource
+				(lib "Device")
+				(part "C_Polarized")
+				(description "Polarized capacitor")
+			)
+			(property
+				(name "LCSC")
+				(value "C51018322")
+			)
+			(property
+				(name "MPN")
+				(value "GA25V470M10X12")
+			)
+			(property
+				(name "Sheetname")
+				(value "Motor Bridge L")
+			)
+			(property
+				(name "Sheetfile")
+				(value "motor_bridge_L.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "CP_*")
+			)
+			(sheetpath
+				(names "/Motor Bridge L/")
+				(tstamps "/23664867-9cca-548c-b0d6-4531eea44e27/")
+			)
+			(tstamps "38e84e53-447e-5511-9a69-b9e016776ac6")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D401")
+			(value "BAT54S")
+			(footprint "Package_TO_SOT_SMD:SOT-23")
+			(datasheet "https://www.diodes.com/assets/Datasheets/ds11005.pdf")
+			(description "Vr 30V, If 200mA, Dual schottky barrier diode, in series, SOT-323")
+			(fields
+				(field
+					(name "LCSC") "C8592")
+				(field
+					(name "MPN") "BAT54S")
+				(field
+					(name "Footprint") "Package_TO_SOT_SMD:SOT-23")
+				(field
+					(name "Datasheet") "https://www.diodes.com/assets/Datasheets/ds11005.pdf")
+				(field
+					(name "Description") "Vr 30V, If 200mA, Dual schottky barrier diode, in series, SOT-323")
+			)
+			(libsource
+				(lib "Diode")
+				(part "BAT54S")
+				(description "Vr 30V, If 200mA, Dual schottky barrier diode, in series, SOT-323")
+			)
+			(property
+				(name "LCSC")
+				(value "C8592")
+			)
+			(property
+				(name "MPN")
+				(value "BAT54S")
+			)
+			(property
+				(name "Sheetname")
+				(value "Motor Bridge L")
+			)
+			(property
+				(name "Sheetfile")
+				(value "motor_bridge_L.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "schottky diode")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "SOT?23*")
+			)
+			(sheetpath
+				(names "/Motor Bridge L/")
+				(tstamps "/23664867-9cca-548c-b0d6-4531eea44e27/")
+			)
+			(tstamps "da1897dd-bda0-5065-a682-06865abfd4f7")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D402")
+			(value "BAT54S")
+			(footprint "Package_TO_SOT_SMD:SOT-23")
+			(datasheet "https://www.diodes.com/assets/Datasheets/ds11005.pdf")
+			(description "Vr 30V, If 200mA, Dual schottky barrier diode, in series, SOT-323")
+			(fields
+				(field
+					(name "LCSC") "C8592")
+				(field
+					(name "MPN") "BAT54S")
+				(field
+					(name "Footprint") "Package_TO_SOT_SMD:SOT-23")
+				(field
+					(name "Datasheet") "https://www.diodes.com/assets/Datasheets/ds11005.pdf")
+				(field
+					(name "Description") "Vr 30V, If 200mA, Dual schottky barrier diode, in series, SOT-323")
+			)
+			(libsource
+				(lib "Diode")
+				(part "BAT54S")
+				(description "Vr 30V, If 200mA, Dual schottky barrier diode, in series, SOT-323")
+			)
+			(property
+				(name "LCSC")
+				(value "C8592")
+			)
+			(property
+				(name "MPN")
+				(value "BAT54S")
+			)
+			(property
+				(name "Sheetname")
+				(value "Motor Bridge L")
+			)
+			(property
+				(name "Sheetfile")
+				(value "motor_bridge_L.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "schottky diode")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "SOT?23*")
+			)
+			(sheetpath
+				(names "/Motor Bridge L/")
+				(tstamps "/23664867-9cca-548c-b0d6-4531eea44e27/")
+			)
+			(tstamps "82d102f6-faaf-52c2-bb1b-c77d6a222af5")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "J401")
+			(value "M_L1")
+			(footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal")
+			(description "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)")
+			(fields
+				(field
+					(name "LCSC") "C7509570")
+				(field
+					(name "MPN") "1729128")
+				(field
+					(name "Note") "front pad = L_OUT_A")
+				(field
+					(name "Footprint") "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)")
+			)
+			(libsource
+				(lib "Connector")
+				(part "Screw_Terminal_01x02")
+				(description "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)")
+			)
+			(property
+				(name "LCSC")
+				(value "C7509570")
+			)
+			(property
+				(name "MPN")
+				(value "1729128")
+			)
+			(property
+				(name "Note")
+				(value "front pad = L_OUT_A")
+			)
+			(property
+				(name "Sheetname")
+				(value "Motor Bridge L")
+			)
+			(property
+				(name "Sheetfile")
+				(value "motor_bridge_L.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "screw terminal")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "TerminalBlock*:*")
+			)
+			(sheetpath
+				(names "/Motor Bridge L/")
+				(tstamps "/23664867-9cca-548c-b0d6-4531eea44e27/")
+			)
+			(tstamps "8379fd8e-32ee-5648-a4c5-9f1debc6e635")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "J402")
+			(value "M_L2")
+			(footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal")
+			(description "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)")
+			(fields
+				(field
+					(name "LCSC") "C7509570")
+				(field
+					(name "MPN") "1729128")
+				(field
+					(name "Note") "front pad = L_OUT_A")
+				(field
+					(name "Footprint") "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)")
+			)
+			(libsource
+				(lib "Connector")
+				(part "Screw_Terminal_01x02")
+				(description "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)")
+			)
+			(property
+				(name "LCSC")
+				(value "C7509570")
+			)
+			(property
+				(name "MPN")
+				(value "1729128")
+			)
+			(property
+				(name "Note")
+				(value "front pad = L_OUT_A")
+			)
+			(property
+				(name "Sheetname")
+				(value "Motor Bridge L")
+			)
+			(property
+				(name "Sheetfile")
+				(value "motor_bridge_L.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "screw terminal")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "TerminalBlock*:*")
+			)
+			(sheetpath
+				(names "/Motor Bridge L/")
+				(tstamps "/23664867-9cca-548c-b0d6-4531eea44e27/")
+			)
+			(tstamps "7e44f283-782b-50a5-bee4-ce40d959f194")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R401")
+			(value "10k")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "LCSC") "C25804")
+				(field
+					(name "MPN") "0603WAF1002T5E")
+				(field
+					(name "Note") "IN series")
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "LCSC")
+				(value "C25804")
+			)
+			(property
+				(name "MPN")
+				(value "0603WAF1002T5E")
+			)
+			(property
+				(name "Note")
+				(value "IN series")
+			)
+			(property
+				(name "Sheetname")
+				(value "Motor Bridge L")
+			)
+			(property
+				(name "Sheetfile")
+				(value "motor_bridge_L.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/Motor Bridge L/")
+				(tstamps "/23664867-9cca-548c-b0d6-4531eea44e27/")
+			)
+			(tstamps "d6d69f90-7116-502a-af92-9485d3efb6c7")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R402")
+			(value "10k")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "LCSC") "C25804")
+				(field
+					(name "MPN") "0603WAF1002T5E")
+				(field
+					(name "Note") "INH series")
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "LCSC")
+				(value "C25804")
+			)
+			(property
+				(name "MPN")
+				(value "0603WAF1002T5E")
+			)
+			(property
+				(name "Note")
+				(value "INH series")
+			)
+			(property
+				(name "Sheetname")
+				(value "Motor Bridge L")
+			)
+			(property
+				(name "Sheetfile")
+				(value "motor_bridge_L.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/Motor Bridge L/")
+				(tstamps "/23664867-9cca-548c-b0d6-4531eea44e27/")
+			)
+			(tstamps "1b8a0afb-8c67-5455-bf30-5519745e6679")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R403")
+			(value "5.1k")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "LCSC") "C23186")
+				(field
+					(name "MPN") "0603WAF5101T5E")
+				(field
+					(name "Note") "slew: fit 0R / 51k to tune")
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "LCSC")
+				(value "C23186")
+			)
+			(property
+				(name "MPN")
+				(value "0603WAF5101T5E")
+			)
+			(property
+				(name "Note")
+				(value "slew: fit 0R / 51k to tune")
+			)
+			(property
+				(name "Sheetname")
+				(value "Motor Bridge L")
+			)
+			(property
+				(name "Sheetfile")
+				(value "motor_bridge_L.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/Motor Bridge L/")
+				(tstamps "/23664867-9cca-548c-b0d6-4531eea44e27/")
+			)
+			(tstamps "5aafc772-6e9b-50d8-97f2-45cf9e2eaeba")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R404")
+			(value "470")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "LCSC") "C23179")
+				(field
+					(name "MPN") "0603WAF4700T5E")
+				(field
+					(name "Note") "IS load")
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "LCSC")
+				(value "C23179")
+			)
+			(property
+				(name "MPN")
+				(value "0603WAF4700T5E")
+			)
+			(property
+				(name "Note")
+				(value "IS load")
+			)
+			(property
+				(name "Sheetname")
+				(value "Motor Bridge L")
+			)
+			(property
+				(name "Sheetfile")
+				(value "motor_bridge_L.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/Motor Bridge L/")
+				(tstamps "/23664867-9cca-548c-b0d6-4531eea44e27/")
+			)
+			(tstamps "5075018b-8da5-5dc7-8933-ac5fa09600ba")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R405")
+			(value "1k")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "LCSC") "C21190")
+				(field
+					(name "MPN") "0603WAF1001T5E")
+				(field
+					(name "Note") "IS RC filter")
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "LCSC")
+				(value "C21190")
+			)
+			(property
+				(name "MPN")
+				(value "0603WAF1001T5E")
+			)
+			(property
+				(name "Note")
+				(value "IS RC filter")
+			)
+			(property
+				(name "Sheetname")
+				(value "Motor Bridge L")
+			)
+			(property
+				(name "Sheetfile")
+				(value "motor_bridge_L.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/Motor Bridge L/")
+				(tstamps "/23664867-9cca-548c-b0d6-4531eea44e27/")
+			)
+			(tstamps "0ae8d5b0-cba1-5cb7-a8f9-b15a84bb5368")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R406")
+			(value "10k")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "LCSC") "C25804")
+				(field
+					(name "MPN") "0603WAF1002T5E")
+				(field
+					(name "Note") "IN series")
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "LCSC")
+				(value "C25804")
+			)
+			(property
+				(name "MPN")
+				(value "0603WAF1002T5E")
+			)
+			(property
+				(name "Note")
+				(value "IN series")
+			)
+			(property
+				(name "Sheetname")
+				(value "Motor Bridge L")
+			)
+			(property
+				(name "Sheetfile")
+				(value "motor_bridge_L.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/Motor Bridge L/")
+				(tstamps "/23664867-9cca-548c-b0d6-4531eea44e27/")
+			)
+			(tstamps "eac0d95a-af4a-566c-a8b4-1d2a17d741ad")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R407")
+			(value "10k")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "LCSC") "C25804")
+				(field
+					(name "MPN") "0603WAF1002T5E")
+				(field
+					(name "Note") "INH series")
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "LCSC")
+				(value "C25804")
+			)
+			(property
+				(name "MPN")
+				(value "0603WAF1002T5E")
+			)
+			(property
+				(name "Note")
+				(value "INH series")
+			)
+			(property
+				(name "Sheetname")
+				(value "Motor Bridge L")
+			)
+			(property
+				(name "Sheetfile")
+				(value "motor_bridge_L.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/Motor Bridge L/")
+				(tstamps "/23664867-9cca-548c-b0d6-4531eea44e27/")
+			)
+			(tstamps "abab58e4-84a6-52ce-abc2-6bc520a31220")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R408")
+			(value "5.1k")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "LCSC") "C23186")
+				(field
+					(name "MPN") "0603WAF5101T5E")
+				(field
+					(name "Note") "slew: fit 0R / 51k to tune")
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "LCSC")
+				(value "C23186")
+			)
+			(property
+				(name "MPN")
+				(value "0603WAF5101T5E")
+			)
+			(property
+				(name "Note")
+				(value "slew: fit 0R / 51k to tune")
+			)
+			(property
+				(name "Sheetname")
+				(value "Motor Bridge L")
+			)
+			(property
+				(name "Sheetfile")
+				(value "motor_bridge_L.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/Motor Bridge L/")
+				(tstamps "/23664867-9cca-548c-b0d6-4531eea44e27/")
+			)
+			(tstamps "df143fd8-f6e9-521b-b2ab-804cb20beaf9")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R409")
+			(value "470")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "LCSC") "C23179")
+				(field
+					(name "MPN") "0603WAF4700T5E")
+				(field
+					(name "Note") "IS load")
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "LCSC")
+				(value "C23179")
+			)
+			(property
+				(name "MPN")
+				(value "0603WAF4700T5E")
+			)
+			(property
+				(name "Note")
+				(value "IS load")
+			)
+			(property
+				(name "Sheetname")
+				(value "Motor Bridge L")
+			)
+			(property
+				(name "Sheetfile")
+				(value "motor_bridge_L.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/Motor Bridge L/")
+				(tstamps "/23664867-9cca-548c-b0d6-4531eea44e27/")
+			)
+			(tstamps "465df576-2b3f-55a5-9ca2-d08c9b028a2f")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R410")
+			(value "1k")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "LCSC") "C21190")
+				(field
+					(name "MPN") "0603WAF1001T5E")
+				(field
+					(name "Note") "IS RC filter")
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "LCSC")
+				(value "C21190")
+			)
+			(property
+				(name "MPN")
+				(value "0603WAF1001T5E")
+			)
+			(property
+				(name "Note")
+				(value "IS RC filter")
+			)
+			(property
+				(name "Sheetname")
+				(value "Motor Bridge L")
+			)
+			(property
+				(name "Sheetfile")
+				(value "motor_bridge_L.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/Motor Bridge L/")
+				(tstamps "/23664867-9cca-548c-b0d6-4531eea44e27/")
+			)
+			(tstamps "5591cbb0-69c4-537d-b901-d5ed1a071a8f")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "U401")
+			(value "BTS7960B")
+			(footprint "Package_TO_SOT_SMD:TO-263-7_TabPin8")
+			(datasheet "https://www.infineon.com/dgdl/Infineon-BTS7960-DS-v01_01-EN.pdf")
+			(description "Infineon NovalithIC 43 A high-current PN half-bridge, PG-TO263-7 (tab = OUT)")
+			(fields
+				(field
+					(name "LCSC") "C5122776")
+				(field
+					(name "MPN") "BTS7960B")
+				(field
+					(name "Footprint") "Package_TO_SOT_SMD:TO-263-7_TabPin8")
+				(field
+					(name "Datasheet") "https://www.infineon.com/dgdl/Infineon-BTS7960-DS-v01_01-EN.pdf")
+				(field
+					(name "Description") "Infineon NovalithIC 43 A high-current PN half-bridge, PG-TO263-7 (tab = OUT)")
+			)
+			(libsource
+				(lib "racebot")
+				(part "BTS7960B")
+				(description "Infineon NovalithIC 43 A high-current PN half-bridge, PG-TO263-7 (tab = OUT)")
+			)
+			(property
+				(name "LCSC")
+				(value "C5122776")
+			)
+			(property
+				(name "MPN")
+				(value "BTS7960B")
+			)
+			(property
+				(name "Sheetname")
+				(value "Motor Bridge L")
+			)
+			(property
+				(name "Sheetfile")
+				(value "motor_bridge_L.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "half bridge motor driver")
+			)
+			(sheetpath
+				(names "/Motor Bridge L/")
+				(tstamps "/23664867-9cca-548c-b0d6-4531eea44e27/")
+			)
+			(tstamps "bd409381-ff6d-5bfa-9388-fa7f3d50c3df")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "5")
+						)
+						(pin
+							(num "6")
+						)
+						(pin
+							(num "7")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "8")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "U402")
+			(value "BTS7960B")
+			(footprint "Package_TO_SOT_SMD:TO-263-7_TabPin8")
+			(datasheet "https://www.infineon.com/dgdl/Infineon-BTS7960-DS-v01_01-EN.pdf")
+			(description "Infineon NovalithIC 43 A high-current PN half-bridge, PG-TO263-7 (tab = OUT)")
+			(fields
+				(field
+					(name "LCSC") "C5122776")
+				(field
+					(name "MPN") "BTS7960B")
+				(field
+					(name "Footprint") "Package_TO_SOT_SMD:TO-263-7_TabPin8")
+				(field
+					(name "Datasheet") "https://www.infineon.com/dgdl/Infineon-BTS7960-DS-v01_01-EN.pdf")
+				(field
+					(name "Description") "Infineon NovalithIC 43 A high-current PN half-bridge, PG-TO263-7 (tab = OUT)")
+			)
+			(libsource
+				(lib "racebot")
+				(part "BTS7960B")
+				(description "Infineon NovalithIC 43 A high-current PN half-bridge, PG-TO263-7 (tab = OUT)")
+			)
+			(property
+				(name "LCSC")
+				(value "C5122776")
+			)
+			(property
+				(name "MPN")
+				(value "BTS7960B")
+			)
+			(property
+				(name "Sheetname")
+				(value "Motor Bridge L")
+			)
+			(property
+				(name "Sheetfile")
+				(value "motor_bridge_L.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "half bridge motor driver")
+			)
+			(sheetpath
+				(names "/Motor Bridge L/")
+				(tstamps "/23664867-9cca-548c-b0d6-4531eea44e27/")
+			)
+			(tstamps "19ebd131-68cf-5544-8b36-6e5661d3e215")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "5")
+						)
+						(pin
+							(num "6")
+						)
+						(pin
+							(num "7")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "8")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C501")
+			(value "10nF 50V X7R")
+			(footprint "Capacitor_SMD:C_0603_1608Metric")
+			(description "Unpolarized capacitor")
+			(fields
+				(field
+					(name "LCSC") "C57112")
+				(field
+					(name "MPN") "0603B103K500NT")
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Unpolarized capacitor")
+			)
+			(libsource
+				(lib "Device")
+				(part "C")
+				(description "Unpolarized capacitor")
+			)
+			(property
+				(name "LCSC")
+				(value "C57112")
+			)
+			(property
+				(name "MPN")
+				(value "0603B103K500NT")
+			)
+			(property
+				(name "Sheetname")
+				(value "Motor Bridge R")
+			)
+			(property
+				(name "Sheetfile")
+				(value "motor_bridge_R.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/Motor Bridge R/")
+				(tstamps "/e9638288-aec7-583a-9cae-09a7ccd65ee4/")
+			)
+			(tstamps "6b434761-6054-5b5e-abe6-037ccdd7c8b8")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C502")
+			(value "470nF 50V X7R")
+			(footprint "Capacitor_SMD:C_0805_2012Metric")
+			(description "Unpolarized capacitor")
+			(fields
+				(field
+					(name "LCSC") "C13967")
+				(field
+					(name "MPN") "CL21B474KBFNNNE")
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0805_2012Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Unpolarized capacitor")
+			)
+			(libsource
+				(lib "Device")
+				(part "C")
+				(description "Unpolarized capacitor")
+			)
+			(property
+				(name "LCSC")
+				(value "C13967")
+			)
+			(property
+				(name "MPN")
+				(value "CL21B474KBFNNNE")
+			)
+			(property
+				(name "Sheetname")
+				(value "Motor Bridge R")
+			)
+			(property
+				(name "Sheetfile")
+				(value "motor_bridge_R.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/Motor Bridge R/")
+				(tstamps "/e9638288-aec7-583a-9cae-09a7ccd65ee4/")
+			)
+			(tstamps "f2a9bc54-957c-5e4c-be47-d21b35e96092")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C503")
+			(value "100nF 50V X7R")
+			(footprint "Capacitor_SMD:C_0603_1608Metric")
+			(description "Unpolarized capacitor")
+			(fields
+				(field
+					(name "LCSC") "C14663")
+				(field
+					(name "MPN") "CC0603KRX7R9BB104")
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Unpolarized capacitor")
+			)
+			(libsource
+				(lib "Device")
+				(part "C")
+				(description "Unpolarized capacitor")
+			)
+			(property
+				(name "LCSC")
+				(value "C14663")
+			)
+			(property
+				(name "MPN")
+				(value "CC0603KRX7R9BB104")
+			)
+			(property
+				(name "Sheetname")
+				(value "Motor Bridge R")
+			)
+			(property
+				(name "Sheetfile")
+				(value "motor_bridge_R.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/Motor Bridge R/")
+				(tstamps "/e9638288-aec7-583a-9cae-09a7ccd65ee4/")
+			)
+			(tstamps "4783c64c-2a7f-52c0-b453-65fdcf6748cb")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C504")
+			(value "10nF 50V X7R")
+			(footprint "Capacitor_SMD:C_0603_1608Metric")
+			(description "Unpolarized capacitor")
+			(fields
+				(field
+					(name "LCSC") "C57112")
+				(field
+					(name "MPN") "0603B103K500NT")
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Unpolarized capacitor")
+			)
+			(libsource
+				(lib "Device")
+				(part "C")
+				(description "Unpolarized capacitor")
+			)
+			(property
+				(name "LCSC")
+				(value "C57112")
+			)
+			(property
+				(name "MPN")
+				(value "0603B103K500NT")
+			)
+			(property
+				(name "Sheetname")
+				(value "Motor Bridge R")
+			)
+			(property
+				(name "Sheetfile")
+				(value "motor_bridge_R.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/Motor Bridge R/")
+				(tstamps "/e9638288-aec7-583a-9cae-09a7ccd65ee4/")
+			)
+			(tstamps "e8dd6bbb-670c-5147-99d5-f5673de6c2d5")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C505")
+			(value "470nF 50V X7R")
+			(footprint "Capacitor_SMD:C_0805_2012Metric")
+			(description "Unpolarized capacitor")
+			(fields
+				(field
+					(name "LCSC") "C13967")
+				(field
+					(name "MPN") "CL21B474KBFNNNE")
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0805_2012Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Unpolarized capacitor")
+			)
+			(libsource
+				(lib "Device")
+				(part "C")
+				(description "Unpolarized capacitor")
+			)
+			(property
+				(name "LCSC")
+				(value "C13967")
+			)
+			(property
+				(name "MPN")
+				(value "CL21B474KBFNNNE")
+			)
+			(property
+				(name "Sheetname")
+				(value "Motor Bridge R")
+			)
+			(property
+				(name "Sheetfile")
+				(value "motor_bridge_R.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/Motor Bridge R/")
+				(tstamps "/e9638288-aec7-583a-9cae-09a7ccd65ee4/")
+			)
+			(tstamps "4e3b4bd9-6d6b-5044-8e0e-c1d6b30aa063")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C506")
+			(value "100nF 50V X7R")
+			(footprint "Capacitor_SMD:C_0603_1608Metric")
+			(description "Unpolarized capacitor")
+			(fields
+				(field
+					(name "LCSC") "C14663")
+				(field
+					(name "MPN") "CC0603KRX7R9BB104")
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Unpolarized capacitor")
+			)
+			(libsource
+				(lib "Device")
+				(part "C")
+				(description "Unpolarized capacitor")
+			)
+			(property
+				(name "LCSC")
+				(value "C14663")
+			)
+			(property
+				(name "MPN")
+				(value "CC0603KRX7R9BB104")
+			)
+			(property
+				(name "Sheetname")
+				(value "Motor Bridge R")
+			)
+			(property
+				(name "Sheetfile")
+				(value "motor_bridge_R.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/Motor Bridge R/")
+				(tstamps "/e9638288-aec7-583a-9cae-09a7ccd65ee4/")
+			)
+			(tstamps "132f91ab-cb48-5e41-8848-2a1e5305902f")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C507")
+			(value "470uF 25V low-ESR")
+			(footprint "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm")
+			(description "Polarized capacitor")
+			(fields
+				(field
+					(name "LCSC") "C51018322")
+				(field
+					(name "MPN") "GA25V470M10X12")
+				(field
+					(name "Footprint") "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Polarized capacitor")
+			)
+			(libsource
+				(lib "Device")
+				(part "C_Polarized")
+				(description "Polarized capacitor")
+			)
+			(property
+				(name "LCSC")
+				(value "C51018322")
+			)
+			(property
+				(name "MPN")
+				(value "GA25V470M10X12")
+			)
+			(property
+				(name "Sheetname")
+				(value "Motor Bridge R")
+			)
+			(property
+				(name "Sheetfile")
+				(value "motor_bridge_R.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "CP_*")
+			)
+			(sheetpath
+				(names "/Motor Bridge R/")
+				(tstamps "/e9638288-aec7-583a-9cae-09a7ccd65ee4/")
+			)
+			(tstamps "7d44e7b9-8455-535a-a963-5a0957ac32b9")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C508")
+			(value "470uF 25V low-ESR")
+			(footprint "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm")
+			(description "Polarized capacitor")
+			(fields
+				(field
+					(name "LCSC") "C51018322")
+				(field
+					(name "MPN") "GA25V470M10X12")
+				(field
+					(name "Footprint") "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Polarized capacitor")
+			)
+			(libsource
+				(lib "Device")
+				(part "C_Polarized")
+				(description "Polarized capacitor")
+			)
+			(property
+				(name "LCSC")
+				(value "C51018322")
+			)
+			(property
+				(name "MPN")
+				(value "GA25V470M10X12")
+			)
+			(property
+				(name "Sheetname")
+				(value "Motor Bridge R")
+			)
+			(property
+				(name "Sheetfile")
+				(value "motor_bridge_R.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "CP_*")
+			)
+			(sheetpath
+				(names "/Motor Bridge R/")
+				(tstamps "/e9638288-aec7-583a-9cae-09a7ccd65ee4/")
+			)
+			(tstamps "8e4552a4-15a7-566e-90c5-35af7e83bc81")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D501")
+			(value "BAT54S")
+			(footprint "Package_TO_SOT_SMD:SOT-23")
+			(datasheet "https://www.diodes.com/assets/Datasheets/ds11005.pdf")
+			(description "Vr 30V, If 200mA, Dual schottky barrier diode, in series, SOT-323")
+			(fields
+				(field
+					(name "LCSC") "C8592")
+				(field
+					(name "MPN") "BAT54S")
+				(field
+					(name "Footprint") "Package_TO_SOT_SMD:SOT-23")
+				(field
+					(name "Datasheet") "https://www.diodes.com/assets/Datasheets/ds11005.pdf")
+				(field
+					(name "Description") "Vr 30V, If 200mA, Dual schottky barrier diode, in series, SOT-323")
+			)
+			(libsource
+				(lib "Diode")
+				(part "BAT54S")
+				(description "Vr 30V, If 200mA, Dual schottky barrier diode, in series, SOT-323")
+			)
+			(property
+				(name "LCSC")
+				(value "C8592")
+			)
+			(property
+				(name "MPN")
+				(value "BAT54S")
+			)
+			(property
+				(name "Sheetname")
+				(value "Motor Bridge R")
+			)
+			(property
+				(name "Sheetfile")
+				(value "motor_bridge_R.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "schottky diode")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "SOT?23*")
+			)
+			(sheetpath
+				(names "/Motor Bridge R/")
+				(tstamps "/e9638288-aec7-583a-9cae-09a7ccd65ee4/")
+			)
+			(tstamps "39f14ef6-a9ce-5423-8ba5-deb7029f9b16")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D502")
+			(value "BAT54S")
+			(footprint "Package_TO_SOT_SMD:SOT-23")
+			(datasheet "https://www.diodes.com/assets/Datasheets/ds11005.pdf")
+			(description "Vr 30V, If 200mA, Dual schottky barrier diode, in series, SOT-323")
+			(fields
+				(field
+					(name "LCSC") "C8592")
+				(field
+					(name "MPN") "BAT54S")
+				(field
+					(name "Footprint") "Package_TO_SOT_SMD:SOT-23")
+				(field
+					(name "Datasheet") "https://www.diodes.com/assets/Datasheets/ds11005.pdf")
+				(field
+					(name "Description") "Vr 30V, If 200mA, Dual schottky barrier diode, in series, SOT-323")
+			)
+			(libsource
+				(lib "Diode")
+				(part "BAT54S")
+				(description "Vr 30V, If 200mA, Dual schottky barrier diode, in series, SOT-323")
+			)
+			(property
+				(name "LCSC")
+				(value "C8592")
+			)
+			(property
+				(name "MPN")
+				(value "BAT54S")
+			)
+			(property
+				(name "Sheetname")
+				(value "Motor Bridge R")
+			)
+			(property
+				(name "Sheetfile")
+				(value "motor_bridge_R.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "schottky diode")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "SOT?23*")
+			)
+			(sheetpath
+				(names "/Motor Bridge R/")
+				(tstamps "/e9638288-aec7-583a-9cae-09a7ccd65ee4/")
+			)
+			(tstamps "88ba456a-2181-5675-be07-0d4d1829a848")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "J501")
+			(value "M_R1")
+			(footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal")
+			(description "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)")
+			(fields
+				(field
+					(name "LCSC") "C7509570")
+				(field
+					(name "MPN") "1729128")
+				(field
+					(name "Note") "front pad = R_OUT_A")
+				(field
+					(name "Footprint") "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)")
+			)
+			(libsource
+				(lib "Connector")
+				(part "Screw_Terminal_01x02")
+				(description "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)")
+			)
+			(property
+				(name "LCSC")
+				(value "C7509570")
+			)
+			(property
+				(name "MPN")
+				(value "1729128")
+			)
+			(property
+				(name "Note")
+				(value "front pad = R_OUT_A")
+			)
+			(property
+				(name "Sheetname")
+				(value "Motor Bridge R")
+			)
+			(property
+				(name "Sheetfile")
+				(value "motor_bridge_R.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "screw terminal")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "TerminalBlock*:*")
+			)
+			(sheetpath
+				(names "/Motor Bridge R/")
+				(tstamps "/e9638288-aec7-583a-9cae-09a7ccd65ee4/")
+			)
+			(tstamps "8ecbd769-8633-5049-9954-a2455dda8cd4")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "J502")
+			(value "M_R2")
+			(footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal")
+			(description "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)")
+			(fields
+				(field
+					(name "LCSC") "C7509570")
+				(field
+					(name "MPN") "1729128")
+				(field
+					(name "Note") "front pad = R_OUT_A")
+				(field
+					(name "Footprint") "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)")
+			)
+			(libsource
+				(lib "Connector")
+				(part "Screw_Terminal_01x02")
+				(description "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)")
+			)
+			(property
+				(name "LCSC")
+				(value "C7509570")
+			)
+			(property
+				(name "MPN")
+				(value "1729128")
+			)
+			(property
+				(name "Note")
+				(value "front pad = R_OUT_A")
+			)
+			(property
+				(name "Sheetname")
+				(value "Motor Bridge R")
+			)
+			(property
+				(name "Sheetfile")
+				(value "motor_bridge_R.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "screw terminal")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "TerminalBlock*:*")
+			)
+			(sheetpath
+				(names "/Motor Bridge R/")
+				(tstamps "/e9638288-aec7-583a-9cae-09a7ccd65ee4/")
+			)
+			(tstamps "a7090d2a-002f-5c51-b570-6884eb02854c")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R501")
+			(value "10k")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "LCSC") "C25804")
+				(field
+					(name "MPN") "0603WAF1002T5E")
+				(field
+					(name "Note") "IN series")
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "LCSC")
+				(value "C25804")
+			)
+			(property
+				(name "MPN")
+				(value "0603WAF1002T5E")
+			)
+			(property
+				(name "Note")
+				(value "IN series")
+			)
+			(property
+				(name "Sheetname")
+				(value "Motor Bridge R")
+			)
+			(property
+				(name "Sheetfile")
+				(value "motor_bridge_R.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/Motor Bridge R/")
+				(tstamps "/e9638288-aec7-583a-9cae-09a7ccd65ee4/")
+			)
+			(tstamps "5d107dac-89b7-5761-897c-e1d7fa857224")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R502")
+			(value "10k")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "LCSC") "C25804")
+				(field
+					(name "MPN") "0603WAF1002T5E")
+				(field
+					(name "Note") "INH series")
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "LCSC")
+				(value "C25804")
+			)
+			(property
+				(name "MPN")
+				(value "0603WAF1002T5E")
+			)
+			(property
+				(name "Note")
+				(value "INH series")
+			)
+			(property
+				(name "Sheetname")
+				(value "Motor Bridge R")
+			)
+			(property
+				(name "Sheetfile")
+				(value "motor_bridge_R.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/Motor Bridge R/")
+				(tstamps "/e9638288-aec7-583a-9cae-09a7ccd65ee4/")
+			)
+			(tstamps "e5a018aa-5ecb-5fd2-90be-c5a5333b511e")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R503")
+			(value "5.1k")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "LCSC") "C23186")
+				(field
+					(name "MPN") "0603WAF5101T5E")
+				(field
+					(name "Note") "slew: fit 0R / 51k to tune")
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "LCSC")
+				(value "C23186")
+			)
+			(property
+				(name "MPN")
+				(value "0603WAF5101T5E")
+			)
+			(property
+				(name "Note")
+				(value "slew: fit 0R / 51k to tune")
+			)
+			(property
+				(name "Sheetname")
+				(value "Motor Bridge R")
+			)
+			(property
+				(name "Sheetfile")
+				(value "motor_bridge_R.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/Motor Bridge R/")
+				(tstamps "/e9638288-aec7-583a-9cae-09a7ccd65ee4/")
+			)
+			(tstamps "e0e4e247-db40-5d21-92ac-f01445b359f4")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R504")
+			(value "470")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "LCSC") "C23179")
+				(field
+					(name "MPN") "0603WAF4700T5E")
+				(field
+					(name "Note") "IS load")
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "LCSC")
+				(value "C23179")
+			)
+			(property
+				(name "MPN")
+				(value "0603WAF4700T5E")
+			)
+			(property
+				(name "Note")
+				(value "IS load")
+			)
+			(property
+				(name "Sheetname")
+				(value "Motor Bridge R")
+			)
+			(property
+				(name "Sheetfile")
+				(value "motor_bridge_R.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/Motor Bridge R/")
+				(tstamps "/e9638288-aec7-583a-9cae-09a7ccd65ee4/")
+			)
+			(tstamps "399233c6-f18c-5476-8d73-f0da99164240")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R505")
+			(value "1k")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "LCSC") "C21190")
+				(field
+					(name "MPN") "0603WAF1001T5E")
+				(field
+					(name "Note") "IS RC filter")
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "LCSC")
+				(value "C21190")
+			)
+			(property
+				(name "MPN")
+				(value "0603WAF1001T5E")
+			)
+			(property
+				(name "Note")
+				(value "IS RC filter")
+			)
+			(property
+				(name "Sheetname")
+				(value "Motor Bridge R")
+			)
+			(property
+				(name "Sheetfile")
+				(value "motor_bridge_R.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/Motor Bridge R/")
+				(tstamps "/e9638288-aec7-583a-9cae-09a7ccd65ee4/")
+			)
+			(tstamps "ee66f436-ab88-5dee-92b3-ec963790fb5f")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R506")
+			(value "10k")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "LCSC") "C25804")
+				(field
+					(name "MPN") "0603WAF1002T5E")
+				(field
+					(name "Note") "IN series")
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "LCSC")
+				(value "C25804")
+			)
+			(property
+				(name "MPN")
+				(value "0603WAF1002T5E")
+			)
+			(property
+				(name "Note")
+				(value "IN series")
+			)
+			(property
+				(name "Sheetname")
+				(value "Motor Bridge R")
+			)
+			(property
+				(name "Sheetfile")
+				(value "motor_bridge_R.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/Motor Bridge R/")
+				(tstamps "/e9638288-aec7-583a-9cae-09a7ccd65ee4/")
+			)
+			(tstamps "dccf2a74-1d71-54b6-bd1c-8d9d33a529a6")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R507")
+			(value "10k")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "LCSC") "C25804")
+				(field
+					(name "MPN") "0603WAF1002T5E")
+				(field
+					(name "Note") "INH series")
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "LCSC")
+				(value "C25804")
+			)
+			(property
+				(name "MPN")
+				(value "0603WAF1002T5E")
+			)
+			(property
+				(name "Note")
+				(value "INH series")
+			)
+			(property
+				(name "Sheetname")
+				(value "Motor Bridge R")
+			)
+			(property
+				(name "Sheetfile")
+				(value "motor_bridge_R.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/Motor Bridge R/")
+				(tstamps "/e9638288-aec7-583a-9cae-09a7ccd65ee4/")
+			)
+			(tstamps "bea5baac-24ef-5977-88c7-a616b9b98f42")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R508")
+			(value "5.1k")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "LCSC") "C23186")
+				(field
+					(name "MPN") "0603WAF5101T5E")
+				(field
+					(name "Note") "slew: fit 0R / 51k to tune")
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "LCSC")
+				(value "C23186")
+			)
+			(property
+				(name "MPN")
+				(value "0603WAF5101T5E")
+			)
+			(property
+				(name "Note")
+				(value "slew: fit 0R / 51k to tune")
+			)
+			(property
+				(name "Sheetname")
+				(value "Motor Bridge R")
+			)
+			(property
+				(name "Sheetfile")
+				(value "motor_bridge_R.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/Motor Bridge R/")
+				(tstamps "/e9638288-aec7-583a-9cae-09a7ccd65ee4/")
+			)
+			(tstamps "970e77bb-1bcf-5841-af15-aeb58104800a")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R509")
+			(value "470")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "LCSC") "C23179")
+				(field
+					(name "MPN") "0603WAF4700T5E")
+				(field
+					(name "Note") "IS load")
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "LCSC")
+				(value "C23179")
+			)
+			(property
+				(name "MPN")
+				(value "0603WAF4700T5E")
+			)
+			(property
+				(name "Note")
+				(value "IS load")
+			)
+			(property
+				(name "Sheetname")
+				(value "Motor Bridge R")
+			)
+			(property
+				(name "Sheetfile")
+				(value "motor_bridge_R.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/Motor Bridge R/")
+				(tstamps "/e9638288-aec7-583a-9cae-09a7ccd65ee4/")
+			)
+			(tstamps "ed0b92c3-c182-52d2-ae93-6fade27db82f")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R510")
+			(value "1k")
+			(footprint "Resistor_SMD:R_0603_1608Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "LCSC") "C21190")
+				(field
+					(name "MPN") "0603WAF1001T5E")
+				(field
+					(name "Note") "IS RC filter")
+				(field
+					(name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "LCSC")
+				(value "C21190")
+			)
+			(property
+				(name "MPN")
+				(value "0603WAF1001T5E")
+			)
+			(property
+				(name "Note")
+				(value "IS RC filter")
+			)
+			(property
+				(name "Sheetname")
+				(value "Motor Bridge R")
+			)
+			(property
+				(name "Sheetfile")
+				(value "motor_bridge_R.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/Motor Bridge R/")
+				(tstamps "/e9638288-aec7-583a-9cae-09a7ccd65ee4/")
+			)
+			(tstamps "0aa774db-67d7-58a5-9301-089fe31fcf33")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "U501")
+			(value "BTS7960B")
+			(footprint "Package_TO_SOT_SMD:TO-263-7_TabPin8")
+			(datasheet "https://www.infineon.com/dgdl/Infineon-BTS7960-DS-v01_01-EN.pdf")
+			(description "Infineon NovalithIC 43 A high-current PN half-bridge, PG-TO263-7 (tab = OUT)")
+			(fields
+				(field
+					(name "LCSC") "C5122776")
+				(field
+					(name "MPN") "BTS7960B")
+				(field
+					(name "Footprint") "Package_TO_SOT_SMD:TO-263-7_TabPin8")
+				(field
+					(name "Datasheet") "https://www.infineon.com/dgdl/Infineon-BTS7960-DS-v01_01-EN.pdf")
+				(field
+					(name "Description") "Infineon NovalithIC 43 A high-current PN half-bridge, PG-TO263-7 (tab = OUT)")
+			)
+			(libsource
+				(lib "racebot")
+				(part "BTS7960B")
+				(description "Infineon NovalithIC 43 A high-current PN half-bridge, PG-TO263-7 (tab = OUT)")
+			)
+			(property
+				(name "LCSC")
+				(value "C5122776")
+			)
+			(property
+				(name "MPN")
+				(value "BTS7960B")
+			)
+			(property
+				(name "Sheetname")
+				(value "Motor Bridge R")
+			)
+			(property
+				(name "Sheetfile")
+				(value "motor_bridge_R.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "half bridge motor driver")
+			)
+			(sheetpath
+				(names "/Motor Bridge R/")
+				(tstamps "/e9638288-aec7-583a-9cae-09a7ccd65ee4/")
+			)
+			(tstamps "392ec088-7cd5-57c4-ae10-198f1645e236")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "5")
+						)
+						(pin
+							(num "6")
+						)
+						(pin
+							(num "7")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "8")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "U502")
+			(value "BTS7960B")
+			(footprint "Package_TO_SOT_SMD:TO-263-7_TabPin8")
+			(datasheet "https://www.infineon.com/dgdl/Infineon-BTS7960-DS-v01_01-EN.pdf")
+			(description "Infineon NovalithIC 43 A high-current PN half-bridge, PG-TO263-7 (tab = OUT)")
+			(fields
+				(field
+					(name "LCSC") "C5122776")
+				(field
+					(name "MPN") "BTS7960B")
+				(field
+					(name "Footprint") "Package_TO_SOT_SMD:TO-263-7_TabPin8")
+				(field
+					(name "Datasheet") "https://www.infineon.com/dgdl/Infineon-BTS7960-DS-v01_01-EN.pdf")
+				(field
+					(name "Description") "Infineon NovalithIC 43 A high-current PN half-bridge, PG-TO263-7 (tab = OUT)")
+			)
+			(libsource
+				(lib "racebot")
+				(part "BTS7960B")
+				(description "Infineon NovalithIC 43 A high-current PN half-bridge, PG-TO263-7 (tab = OUT)")
+			)
+			(property
+				(name "LCSC")
+				(value "C5122776")
+			)
+			(property
+				(name "MPN")
+				(value "BTS7960B")
+			)
+			(property
+				(name "Sheetname")
+				(value "Motor Bridge R")
+			)
+			(property
+				(name "Sheetfile")
+				(value "motor_bridge_R.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "half bridge motor driver")
+			)
+			(sheetpath
+				(names "/Motor Bridge R/")
+				(tstamps "/e9638288-aec7-583a-9cae-09a7ccd65ee4/")
+			)
+			(tstamps "c4a0b9cd-0443-5a3b-babd-3a5288a04766")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "5")
+						)
+						(pin
+							(num "6")
+						)
+						(pin
+							(num "7")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "8")
+						)
+					)
+				)
+			)
+		)
+	)
+	(groups)
+	(variants)
+	(libparts
+		(libpart
+			(lib "74xx")
+			(part "74HCT244")
+			(description "8-bit Buffer/Line Driver 3-state")
+			(docs "https://assets.nexperia.com/documents/data-sheet/74HC_HCT244.pdf")
+			(footprints
+				(fp "TSSOP*4.4x6.5mm*P0.65mm*")
+				(fp "SSOP*4.4x6.5mm*P0.65mm*")
+			)
+			(fields
+				(field
+					(name "Reference") "U")
+				(field
+					(name "Value") "74HCT244")
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet") "https://assets.nexperia.com/documents/data-sheet/74HC_HCT244.pdf")
+				(field
+					(name "Description") "8-bit Buffer/Line Driver 3-state")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "1OE")
+					(type "input")
+				)
+				(pin
+					(num "2")
+					(name "1A0")
+					(type "input")
+				)
+				(pin
+					(num "3")
+					(name "2Y0")
+					(type "tri_state")
+				)
+				(pin
+					(num "4")
+					(name "1A1")
+					(type "input")
+				)
+				(pin
+					(num "5")
+					(name "2Y1")
+					(type "tri_state")
+				)
+				(pin
+					(num "6")
+					(name "1A2")
+					(type "input")
+				)
+				(pin
+					(num "7")
+					(name "2Y2")
+					(type "tri_state")
+				)
+				(pin
+					(num "8")
+					(name "1A3")
+					(type "input")
+				)
+				(pin
+					(num "9")
+					(name "2Y3")
+					(type "tri_state")
+				)
+				(pin
+					(num "10")
+					(name "GND")
+					(type "power_in")
+				)
+				(pin
+					(num "11")
+					(name "2A3")
+					(type "input")
+				)
+				(pin
+					(num "12")
+					(name "1Y3")
+					(type "tri_state")
+				)
+				(pin
+					(num "13")
+					(name "2A2")
+					(type "input")
+				)
+				(pin
+					(num "14")
+					(name "1Y2")
+					(type "tri_state")
+				)
+				(pin
+					(num "15")
+					(name "2A1")
+					(type "input")
+				)
+				(pin
+					(num "16")
+					(name "1Y1")
+					(type "tri_state")
+				)
+				(pin
+					(num "17")
+					(name "2A0")
+					(type "input")
+				)
+				(pin
+					(num "18")
+					(name "1Y0")
+					(type "tri_state")
+				)
+				(pin
+					(num "19")
+					(name "2OE")
+					(type "input")
+				)
+				(pin
+					(num "20")
+					(name "VCC")
+					(type "power_in")
+				)
+			)
+		)
+		(libpart
+			(lib "Connector")
+			(part "Screw_Terminal_01x02")
+			(description "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)")
+			(footprints
+				(fp "TerminalBlock*:*")
+			)
+			(fields
+				(field
+					(name "Reference") "J")
+				(field
+					(name "Value") "Screw_Terminal_01x02")
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "Pin_1")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "Pin_2")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "Connector_Generic")
+			(part "Conn_01x02")
+			(description "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)")
+			(footprints
+				(fp "Connector*:*_1x??_*")
+			)
+			(fields
+				(field
+					(name "Reference") "J")
+				(field
+					(name "Value") "Conn_01x02")
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "Pin_1")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "Pin_2")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "Connector_Generic")
+			(part "Conn_01x04")
+			(description "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)")
+			(footprints
+				(fp "Connector*:*_1x??_*")
+			)
+			(fields
+				(field
+					(name "Reference") "J")
+				(field
+					(name "Value") "Conn_01x04")
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "Pin_1")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "Pin_2")
+					(type "passive")
+				)
+				(pin
+					(num "3")
+					(name "Pin_3")
+					(type "passive")
+				)
+				(pin
+					(num "4")
+					(name "Pin_4")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "Device")
+			(part "C")
+			(description "Unpolarized capacitor")
+			(footprints
+				(fp "C_*")
+			)
+			(fields
+				(field
+					(name "Reference") "C")
+				(field
+					(name "Value") "C")
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Unpolarized capacitor")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "Device")
+			(part "C_Polarized")
+			(description "Polarized capacitor")
+			(footprints
+				(fp "CP_*")
+			)
+			(fields
+				(field
+					(name "Reference") "C")
+				(field
+					(name "Value") "C_Polarized")
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Polarized capacitor")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "Device")
+			(part "D_Zener")
+			(description "Zener diode")
+			(footprints
+				(fp "TO-???*")
+				(fp "*_Diode_*")
+				(fp "*SingleDiode*")
+				(fp "D_*")
+			)
+			(fields
+				(field
+					(name "Reference") "D")
+				(field
+					(name "Value") "D_Zener")
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Zener diode")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "K")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "A")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "Device")
+			(part "Fuse")
+			(description "Fuse")
+			(footprints
+				(fp "*Fuse*")
+			)
+			(fields
+				(field
+					(name "Reference") "F")
+				(field
+					(name "Value") "Fuse")
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Fuse")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "Device")
+			(part "L")
+			(description "Inductor")
+			(footprints
+				(fp "Choke_*")
+				(fp "*Coil*")
+				(fp "Inductor_*")
+				(fp "L_*")
+			)
+			(fields
+				(field
+					(name "Reference") "L")
+				(field
+					(name "Value") "L")
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Inductor")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "1")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "2")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "Device")
+			(part "LED")
+			(description "Light emitting diode")
+			(footprints
+				(fp "LED*")
+				(fp "LED_SMD:*")
+				(fp "LED_THT:*")
+			)
+			(fields
+				(field
+					(name "Reference") "D")
+				(field
+					(name "Value") "LED")
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Light emitting diode")
+				(field
+					(name "Sim.Pins") "1=K 2=A")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "K")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "A")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "Device")
+			(part "R")
+			(description "Resistor")
+			(footprints
+				(fp "R_*")
+			)
+			(fields
+				(field
+					(name "Reference") "R")
+				(field
+					(name "Value") "R")
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "Diode")
+			(part "BAT54S")
+			(description "Vr 30V, If 200mA, Dual schottky barrier diode, in series, SOT-323")
+			(docs "https://www.diodes.com/assets/Datasheets/ds11005.pdf")
+			(footprints
+				(fp "SOT?23*")
+			)
+			(fields
+				(field
+					(name "Reference") "D")
+				(field
+					(name "Value") "BAT54S")
+				(field
+					(name "Footprint") "Package_TO_SOT_SMD:SOT-23")
+				(field
+					(name "Datasheet") "https://www.diodes.com/assets/Datasheets/ds11005.pdf")
+				(field
+					(name "Description") "Vr 30V, If 200mA, Dual schottky barrier diode, in series, SOT-323")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "A")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "K")
+					(type "passive")
+				)
+				(pin
+					(num "3")
+					(name "COM")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "Diode")
+			(part "BZT52Bxx")
+			(description "500mW Zener Diode, SOD-123F")
+			(docs "https://diotec.com/tl_files/diotec/files/pdf/datasheets/bzt52b2v4.pdf")
+			(footprints
+				(fp "D?SOD?123F*")
+			)
+			(fields
+				(field
+					(name "Reference") "D")
+				(field
+					(name "Value") "BZT52Bxx")
+				(field
+					(name "Footprint") "Diode_SMD:D_SOD-123F")
+				(field
+					(name "Datasheet") "https://diotec.com/tl_files/diotec/files/pdf/datasheets/bzt52b2v4.pdf")
+				(field
+					(name "Description") "500mW Zener Diode, SOD-123F")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "K")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "A")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "Diode")
+			(part "SS34")
+			(description "40V 3A Schottky Diode, SMA")
+			(docs "https://www.vishay.com/docs/88751/ss32.pdf")
+			(footprints
+				(fp "D*SMA*")
+			)
+			(fields
+				(field
+					(name "Reference") "D")
+				(field
+					(name "Value") "SS34")
+				(field
+					(name "Footprint") "Diode_SMD:D_SMA")
+				(field
+					(name "Datasheet") "https://www.vishay.com/docs/88751/ss32.pdf")
+				(field
+					(name "Description") "40V 3A Schottky Diode, SMA")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "K")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "A")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "Regulator_Switching")
+			(part "LM2596S-5")
+			(description "5V 3A Step-Down Voltage Regulator, TO-263")
+			(docs "http://www.ti.com/lit/ds/symlink/lm2596.pdf")
+			(footprints
+				(fp "TO?263*")
+			)
+			(fields
+				(field
+					(name "Reference") "U")
+				(field
+					(name "Value") "LM2596S-5")
+				(field
+					(name "Footprint") "Package_TO_SOT_SMD:TO-263-5_TabPin3")
+				(field
+					(name "Datasheet") "http://www.ti.com/lit/ds/symlink/lm2596.pdf")
+				(field
+					(name "Description") "5V 3A Step-Down Voltage Regulator, TO-263")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "VIN")
+					(type "power_in")
+				)
+				(pin
+					(num "2")
+					(name "OUT")
+					(type "output")
+				)
+				(pin
+					(num "3")
+					(name "GND")
+					(type "power_in")
+				)
+				(pin
+					(num "4")
+					(name "FB")
+					(type "input")
+				)
+				(pin
+					(num "5")
+					(name "~{ON}/OFF")
+					(type "input")
+				)
+			)
+		)
+		(libpart
+			(lib "Transistor_FET")
+			(part "CSD18540Q5B")
+			(description "100A Id, 60V Vds, NexFET N-Channel Power MOSFET, 2.2mOhm Ron, 41nC Qg(typ), SON8 5x6mm")
+			(docs "http://www.ti.com/lit/gpn/csd18540q5b")
+			(footprints
+				(fp "TDSON*")
+			)
+			(fields
+				(field
+					(name "Reference") "Q")
+				(field
+					(name "Value") "CSD18540Q5B")
+				(field
+					(name "Footprint") "Package_TO_SOT_SMD:TDSON-8-1")
+				(field
+					(name "Datasheet") "http://www.ti.com/lit/gpn/csd18540q5b")
+				(field
+					(name "Description") "100A Id, 60V Vds, NexFET N-Channel Power MOSFET, 2.2mOhm Ron, 41nC Qg(typ), SON8 5x6mm")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "S")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "S")
+					(type "passive")
+				)
+				(pin
+					(num "3")
+					(name "S")
+					(type "passive")
+				)
+				(pin
+					(num "4")
+					(name "G")
+					(type "input")
+				)
+				(pin
+					(num "5")
+					(name "D")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "racebot")
+			(part "BTS7960B")
+			(description "Infineon NovalithIC 43 A high-current PN half-bridge, PG-TO263-7 (tab = OUT)")
+			(docs "https://www.infineon.com/dgdl/Infineon-BTS7960-DS-v01_01-EN.pdf")
+			(fields
+				(field
+					(name "Reference") "U")
+				(field
+					(name "Value") "BTS7960B")
+				(field
+					(name "Footprint") "Package_TO_SOT_SMD:TO-263-7_TabPin8")
+				(field
+					(name "Datasheet") "https://www.infineon.com/dgdl/Infineon-BTS7960-DS-v01_01-EN.pdf")
+				(field
+					(name "Description") "Infineon NovalithIC 43 A high-current PN half-bridge, PG-TO263-7 (tab = OUT)")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "GND")
+					(type "power_in")
+				)
+				(pin
+					(num "2")
+					(name "IN")
+					(type "input")
+				)
+				(pin
+					(num "3")
+					(name "INH")
+					(type "input")
+				)
+				(pin
+					(num "4")
+					(name "OUT")
+					(type "passive")
+				)
+				(pin
+					(num "5")
+					(name "SR")
+					(type "passive")
+				)
+				(pin
+					(num "6")
+					(name "IS")
+					(type "output")
+				)
+				(pin
+					(num "7")
+					(name "VS")
+					(type "power_in")
+				)
+				(pin
+					(num "8")
+					(name "OUT(TAB)")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "racebot")
+			(part "ESP32_DevKit38_L")
+			(description "1x19 female header row for a 38-pin ESP32-WROOM-32 DevKit (DevKitC V4 pin order)")
+			(fields
+				(field
+					(name "Reference") "J")
+				(field
+					(name "Value") "ESP32_DevKit38_L")
+				(field
+					(name "Footprint") "Connector_PinSocket_2.54mm:PinSocket_1x19_P2.54mm_Vertical")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "1x19 female header row for a 38-pin ESP32-WROOM-32 DevKit (DevKitC V4 pin order)")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "3V3")
+					(type "power_out")
+				)
+				(pin
+					(num "2")
+					(name "EN")
+					(type "bidirectional")
+				)
+				(pin
+					(num "3")
+					(name "VP/IO36")
+					(type "input")
+				)
+				(pin
+					(num "4")
+					(name "VN/IO39")
+					(type "input")
+				)
+				(pin
+					(num "5")
+					(name "IO34")
+					(type "input")
+				)
+				(pin
+					(num "6")
+					(name "IO35")
+					(type "input")
+				)
+				(pin
+					(num "7")
+					(name "IO32")
+					(type "bidirectional")
+				)
+				(pin
+					(num "8")
+					(name "IO33")
+					(type "bidirectional")
+				)
+				(pin
+					(num "9")
+					(name "IO25")
+					(type "bidirectional")
+				)
+				(pin
+					(num "10")
+					(name "IO26")
+					(type "bidirectional")
+				)
+				(pin
+					(num "11")
+					(name "IO27")
+					(type "bidirectional")
+				)
+				(pin
+					(num "12")
+					(name "IO14")
+					(type "bidirectional")
+				)
+				(pin
+					(num "13")
+					(name "IO12")
+					(type "bidirectional")
+				)
+				(pin
+					(num "14")
+					(name "GND")
+					(type "passive")
+				)
+				(pin
+					(num "15")
+					(name "IO13")
+					(type "bidirectional")
+				)
+				(pin
+					(num "16")
+					(name "SD2/IO9")
+					(type "bidirectional")
+				)
+				(pin
+					(num "17")
+					(name "SD3/IO10")
+					(type "bidirectional")
+				)
+				(pin
+					(num "18")
+					(name "CMD/IO11")
+					(type "bidirectional")
+				)
+				(pin
+					(num "19")
+					(name "5V")
+					(type "power_in")
+				)
+			)
+		)
+		(libpart
+			(lib "racebot")
+			(part "ESP32_DevKit38_R")
+			(description "1x19 female header row for a 38-pin ESP32-WROOM-32 DevKit (DevKitC V4 pin order)")
+			(fields
+				(field
+					(name "Reference") "J")
+				(field
+					(name "Value") "ESP32_DevKit38_R")
+				(field
+					(name "Footprint") "Connector_PinSocket_2.54mm:PinSocket_1x19_P2.54mm_Vertical")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "1x19 female header row for a 38-pin ESP32-WROOM-32 DevKit (DevKitC V4 pin order)")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "GND")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "IO23")
+					(type "bidirectional")
+				)
+				(pin
+					(num "3")
+					(name "IO22")
+					(type "bidirectional")
+				)
+				(pin
+					(num "4")
+					(name "TX0/IO1")
+					(type "bidirectional")
+				)
+				(pin
+					(num "5")
+					(name "RX0/IO3")
+					(type "bidirectional")
+				)
+				(pin
+					(num "6")
+					(name "IO21")
+					(type "bidirectional")
+				)
+				(pin
+					(num "7")
+					(name "GND")
+					(type "passive")
+				)
+				(pin
+					(num "8")
+					(name "IO19")
+					(type "bidirectional")
+				)
+				(pin
+					(num "9")
+					(name "IO18")
+					(type "bidirectional")
+				)
+				(pin
+					(num "10")
+					(name "IO5")
+					(type "bidirectional")
+				)
+				(pin
+					(num "11")
+					(name "IO17")
+					(type "bidirectional")
+				)
+				(pin
+					(num "12")
+					(name "IO16")
+					(type "bidirectional")
+				)
+				(pin
+					(num "13")
+					(name "IO4")
+					(type "bidirectional")
+				)
+				(pin
+					(num "14")
+					(name "IO0")
+					(type "bidirectional")
+				)
+				(pin
+					(num "15")
+					(name "IO2")
+					(type "bidirectional")
+				)
+				(pin
+					(num "16")
+					(name "IO15")
+					(type "bidirectional")
+				)
+				(pin
+					(num "17")
+					(name "SD1/IO8")
+					(type "bidirectional")
+				)
+				(pin
+					(num "18")
+					(name "SD0/IO7")
+					(type "bidirectional")
+				)
+				(pin
+					(num "19")
+					(name "CLK/IO6")
+					(type "bidirectional")
+				)
+			)
+		)
+	)
+	(libraries
+		(library
+			(logical "74xx")
+			(uri "${KICAD10_SYMBOL_DIR}/74xx.kicad_sym")
+		)
+		(library
+			(logical "Connector")
+			(uri "${KICAD10_SYMBOL_DIR}/Connector.kicad_sym")
+		)
+		(library
+			(logical "Connector_Generic")
+			(uri "${KICAD10_SYMBOL_DIR}/Connector_Generic.kicad_sym")
+		)
+		(library
+			(logical "Device")
+			(uri "${KICAD10_SYMBOL_DIR}/Device.kicad_sym")
+		)
+		(library
+			(logical "Diode")
+			(uri "${KICAD10_SYMBOL_DIR}/Diode.kicad_sym")
+		)
+		(library
+			(logical "Regulator_Switching")
+			(uri "${KICAD10_SYMBOL_DIR}/Regulator_Switching.kicad_sym")
+		)
+		(library
+			(logical "Transistor_FET")
+			(uri "${KICAD10_SYMBOL_DIR}/Transistor_FET.kicad_sym")
+		)
+		(library
+			(logical "racebot")
+			(uri "${KIPRJMOD}/racebot.kicad_sym")
+		)
+	)
+	(nets
+		(net
+			(code "1")
+			(name "+3V3")
+			(class "Default")
+			(node
+				(ref "D401")
+				(pin "2")
+				(pinfunction "K_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "D402")
+				(pin "2")
+				(pinfunction "K_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "D501")
+				(pin "2")
+				(pinfunction "K_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "D502")
+				(pin "2")
+				(pinfunction "K_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "J201")
+				(pin "1")
+				(pinfunction "3V3_1")
+				(pintype "power_out")
+			)
+		)
+		(net
+			(code "2")
+			(name "+5V")
+			(class "Default")
+			(node
+				(ref "C103")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C104")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C301")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "J201")
+				(pin "19")
+				(pinfunction "5V_19")
+				(pintype "power_in")
+			)
+			(node
+				(ref "J203")
+				(pin "1")
+				(pinfunction "Pin_1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "L101")
+				(pin "2")
+				(pinfunction "2_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R105")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U101")
+				(pin "4")
+				(pinfunction "FB_4")
+				(pintype "input")
+			)
+			(node
+				(ref "U301")
+				(pin "20")
+				(pinfunction "VCC_20")
+				(pintype "power_in")
+			)
+		)
+		(net
+			(code "3")
+			(name "/L_EN")
+			(class "Default")
+			(node
+				(ref "J201")
+				(pin "11")
+				(pinfunction "IO27_11")
+				(pintype "bidirectional")
+			)
+			(node
+				(ref "R303")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U301")
+				(pin "6")
+				(pinfunction "1A2_6")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "4")
+			(name "/L_EN_5V")
+			(class "Default")
+			(node
+				(ref "R402")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R407")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U301")
+				(pin "14")
+				(pinfunction "1Y2_14")
+				(pintype "tri_state")
+			)
+		)
+		(net
+			(code "5")
+			(name "/L_INA")
+			(class "Default")
+			(node
+				(ref "J201")
+				(pin "9")
+				(pinfunction "IO25_9")
+				(pintype "bidirectional")
+			)
+			(node
+				(ref "R301")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U301")
+				(pin "2")
+				(pinfunction "1A0_2")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "6")
+			(name "/L_INA_5V")
+			(class "Default")
+			(node
+				(ref "R401")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U301")
+				(pin "18")
+				(pinfunction "1Y0_18")
+				(pintype "tri_state")
+			)
+		)
+		(net
+			(code "7")
+			(name "/L_INB")
+			(class "Default")
+			(node
+				(ref "J201")
+				(pin "10")
+				(pinfunction "IO26_10")
+				(pintype "bidirectional")
+			)
+			(node
+				(ref "R302")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U301")
+				(pin "4")
+				(pinfunction "1A1_4")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "8")
+			(name "/L_INB_5V")
+			(class "Default")
+			(node
+				(ref "R406")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U301")
+				(pin "16")
+				(pinfunction "1Y1_16")
+				(pintype "tri_state")
+			)
+		)
+		(net
+			(code "9")
+			(name "/L_IS_A")
+			(class "Default")
+			(node
+				(ref "C401")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "D401")
+				(pin "3")
+				(pinfunction "COM_3")
+				(pintype "passive")
+			)
+			(node
+				(ref "J201")
+				(pin "5")
+				(pinfunction "IO34_5")
+				(pintype "input")
+			)
+			(node
+				(ref "R405")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "10")
+			(name "/L_IS_B")
+			(class "Default")
+			(node
+				(ref "C404")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "D402")
+				(pin "3")
+				(pinfunction "COM_3")
+				(pintype "passive")
+			)
+			(node
+				(ref "J201")
+				(pin "6")
+				(pinfunction "IO35_6")
+				(pintype "input")
+			)
+			(node
+				(ref "R410")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "11")
+			(name "/MCU+RX/CRSF_RX")
+			(class "Default")
+			(node
+				(ref "J202")
+				(pin "12")
+				(pinfunction "IO16_12")
+				(pintype "bidirectional")
+			)
+			(node
+				(ref "J203")
+				(pin "3")
+				(pinfunction "Pin_3_3")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "12")
+			(name "/MCU+RX/CRSF_TX")
+			(class "Default")
+			(node
+				(ref "J202")
+				(pin "11")
+				(pinfunction "IO17_11")
+				(pintype "bidirectional")
+			)
+			(node
+				(ref "J203")
+				(pin "4")
+				(pinfunction "Pin_4_4")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "13")
+			(name "/MCU+RX/STATUS_LED")
+			(class "Default")
+			(node
+				(ref "J202")
+				(pin "13")
+				(pinfunction "IO4_13")
+				(pintype "bidirectional")
+			)
+			(node
+				(ref "R201")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "14")
+			(name "/MCU+RX/STAT_A")
+			(class "Default")
+			(node
+				(ref "D201")
+				(pin "2")
+				(pinfunction "A_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R201")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "15")
+			(name "/Motor Bridge L/L_A_IN")
+			(class "Default")
+			(node
+				(ref "R401")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "U401")
+				(pin "2")
+				(pinfunction "IN_2")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "16")
+			(name "/Motor Bridge L/L_A_INH")
+			(class "Default")
+			(node
+				(ref "R402")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "U401")
+				(pin "3")
+				(pinfunction "INH_3")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "17")
+			(name "/Motor Bridge L/L_A_IS")
+			(class "Default")
+			(node
+				(ref "R404")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R405")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U401")
+				(pin "6")
+				(pinfunction "IS_6")
+				(pintype "output")
+			)
+		)
+		(net
+			(code "18")
+			(name "/Motor Bridge L/L_A_SR")
+			(class "Default")
+			(node
+				(ref "R403")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U401")
+				(pin "5")
+				(pinfunction "SR_5")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "19")
+			(name "/Motor Bridge L/L_B_IN")
+			(class "Default")
+			(node
+				(ref "R406")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "U402")
+				(pin "2")
+				(pinfunction "IN_2")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "20")
+			(name "/Motor Bridge L/L_B_INH")
+			(class "Default")
+			(node
+				(ref "R407")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "U402")
+				(pin "3")
+				(pinfunction "INH_3")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "21")
+			(name "/Motor Bridge L/L_B_IS")
+			(class "Default")
+			(node
+				(ref "R409")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R410")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U402")
+				(pin "6")
+				(pinfunction "IS_6")
+				(pintype "output")
+			)
+		)
+		(net
+			(code "22")
+			(name "/Motor Bridge L/L_B_SR")
+			(class "Default")
+			(node
+				(ref "R408")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U402")
+				(pin "5")
+				(pinfunction "SR_5")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "23")
+			(name "/Motor Bridge L/L_OUT_A")
+			(class "Default")
+			(node
+				(ref "J401")
+				(pin "1")
+				(pinfunction "Pin_1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "J402")
+				(pin "1")
+				(pinfunction "Pin_1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U401")
+				(pin "4")
+				(pinfunction "OUT_4")
+				(pintype "passive")
+			)
+			(node
+				(ref "U401")
+				(pin "8")
+				(pinfunction "OUT(TAB)_8")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "24")
+			(name "/Motor Bridge L/L_OUT_B")
+			(class "Default")
+			(node
+				(ref "J401")
+				(pin "2")
+				(pinfunction "Pin_2_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "J402")
+				(pin "2")
+				(pinfunction "Pin_2_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "U402")
+				(pin "4")
+				(pinfunction "OUT_4")
+				(pintype "passive")
+			)
+			(node
+				(ref "U402")
+				(pin "8")
+				(pinfunction "OUT(TAB)_8")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "25")
+			(name "/Motor Bridge R/R_A_IN")
+			(class "Default")
+			(node
+				(ref "R501")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "U501")
+				(pin "2")
+				(pinfunction "IN_2")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "26")
+			(name "/Motor Bridge R/R_A_INH")
+			(class "Default")
+			(node
+				(ref "R502")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "U501")
+				(pin "3")
+				(pinfunction "INH_3")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "27")
+			(name "/Motor Bridge R/R_A_IS")
+			(class "Default")
+			(node
+				(ref "R504")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R505")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U501")
+				(pin "6")
+				(pinfunction "IS_6")
+				(pintype "output")
+			)
+		)
+		(net
+			(code "28")
+			(name "/Motor Bridge R/R_A_SR")
+			(class "Default")
+			(node
+				(ref "R503")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U501")
+				(pin "5")
+				(pinfunction "SR_5")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "29")
+			(name "/Motor Bridge R/R_B_IN")
+			(class "Default")
+			(node
+				(ref "R506")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "U502")
+				(pin "2")
+				(pinfunction "IN_2")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "30")
+			(name "/Motor Bridge R/R_B_INH")
+			(class "Default")
+			(node
+				(ref "R507")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "U502")
+				(pin "3")
+				(pinfunction "INH_3")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "31")
+			(name "/Motor Bridge R/R_B_IS")
+			(class "Default")
+			(node
+				(ref "R509")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R510")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U502")
+				(pin "6")
+				(pinfunction "IS_6")
+				(pintype "output")
+			)
+		)
+		(net
+			(code "32")
+			(name "/Motor Bridge R/R_B_SR")
+			(class "Default")
+			(node
+				(ref "R508")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U502")
+				(pin "5")
+				(pinfunction "SR_5")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "33")
+			(name "/Motor Bridge R/R_OUT_A")
+			(class "Default")
+			(node
+				(ref "J501")
+				(pin "2")
+				(pinfunction "Pin_2_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "J502")
+				(pin "2")
+				(pinfunction "Pin_2_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "U501")
+				(pin "4")
+				(pinfunction "OUT_4")
+				(pintype "passive")
+			)
+			(node
+				(ref "U501")
+				(pin "8")
+				(pinfunction "OUT(TAB)_8")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "34")
+			(name "/Motor Bridge R/R_OUT_B")
+			(class "Default")
+			(node
+				(ref "J501")
+				(pin "1")
+				(pinfunction "Pin_1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "J502")
+				(pin "1")
+				(pinfunction "Pin_1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U502")
+				(pin "4")
+				(pinfunction "OUT_4")
+				(pintype "passive")
+			)
+			(node
+				(ref "U502")
+				(pin "8")
+				(pinfunction "OUT(TAB)_8")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "35")
+			(name "/Power/BAT_NEG")
+			(class "Default")
+			(node
+				(ref "J101")
+				(pin "1")
+				(pinfunction "Pin_1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "Q101")
+				(pin "5")
+				(pinfunction "D_5")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "36")
+			(name "/Power/BAT_POS")
+			(class "Default")
+			(node
+				(ref "F101")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "J101")
+				(pin "2")
+				(pinfunction "Pin_2_2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "37")
+			(name "/Power/LED5_A")
+			(class "Default")
+			(node
+				(ref "D104")
+				(pin "2")
+				(pinfunction "A_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R105")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "38")
+			(name "/Power/LEDV_A")
+			(class "Default")
+			(node
+				(ref "D105")
+				(pin "2")
+				(pinfunction "A_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R106")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "39")
+			(name "/Power/Q_GATE")
+			(class "Default")
+			(node
+				(ref "D101")
+				(pin "1")
+				(pinfunction "K_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "Q101")
+				(pin "4")
+				(pinfunction "G_4")
+				(pintype "input")
+			)
+			(node
+				(ref "R101")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R102")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "40")
+			(name "/Power/SW_5V")
+			(class "Default")
+			(node
+				(ref "D103")
+				(pin "1")
+				(pinfunction "K_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "L101")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U101")
+				(pin "2")
+				(pinfunction "OUT_2")
+				(pintype "output")
+			)
+		)
+		(net
+			(code "41")
+			(name "/Power/VBAT_F")
+			(class "Default")
+			(node
+				(ref "F101")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "J102")
+				(pin "2")
+				(pinfunction "Pin_2_2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "42")
+			(name "/R_EN")
+			(class "Default")
+			(node
+				(ref "J202")
+				(pin "2")
+				(pinfunction "IO23_2")
+				(pintype "bidirectional")
+			)
+			(node
+				(ref "R306")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U301")
+				(pin "13")
+				(pinfunction "2A2_13")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "43")
+			(name "/R_EN_5V")
+			(class "Default")
+			(node
+				(ref "R502")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R507")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U301")
+				(pin "7")
+				(pinfunction "2Y2_7")
+				(pintype "tri_state")
+			)
+		)
+		(net
+			(code "44")
+			(name "/R_INA")
+			(class "Default")
+			(node
+				(ref "J202")
+				(pin "9")
+				(pinfunction "IO18_9")
+				(pintype "bidirectional")
+			)
+			(node
+				(ref "R304")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U301")
+				(pin "17")
+				(pinfunction "2A0_17")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "45")
+			(name "/R_INA_5V")
+			(class "Default")
+			(node
+				(ref "R501")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U301")
+				(pin "3")
+				(pinfunction "2Y0_3")
+				(pintype "tri_state")
+			)
+		)
+		(net
+			(code "46")
+			(name "/R_INB")
+			(class "Default")
+			(node
+				(ref "J202")
+				(pin "8")
+				(pinfunction "IO19_8")
+				(pintype "bidirectional")
+			)
+			(node
+				(ref "R305")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U301")
+				(pin "15")
+				(pinfunction "2A1_15")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "47")
+			(name "/R_INB_5V")
+			(class "Default")
+			(node
+				(ref "R506")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U301")
+				(pin "5")
+				(pinfunction "2Y1_5")
+				(pintype "tri_state")
+			)
+		)
+		(net
+			(code "48")
+			(name "/R_IS_A")
+			(class "Default")
+			(node
+				(ref "C501")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "D501")
+				(pin "3")
+				(pinfunction "COM_3")
+				(pintype "passive")
+			)
+			(node
+				(ref "J201")
+				(pin "3")
+				(pinfunction "VP/IO36_3")
+				(pintype "input")
+			)
+			(node
+				(ref "R505")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "49")
+			(name "/R_IS_B")
+			(class "Default")
+			(node
+				(ref "C504")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "D502")
+				(pin "3")
+				(pinfunction "COM_3")
+				(pintype "passive")
+			)
+			(node
+				(ref "J201")
+				(pin "4")
+				(pinfunction "VN/IO39_4")
+				(pintype "input")
+			)
+			(node
+				(ref "R510")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "50")
+			(name "/VBAT_SENSE")
+			(class "Default")
+			(node
+				(ref "C105")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "J201")
+				(pin "8")
+				(pinfunction "IO33_8")
+				(pintype "bidirectional")
+			)
+			(node
+				(ref "R103")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R104")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "51")
+			(name "GND")
+			(class "Default")
+			(node
+				(ref "C101")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C102")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C103")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C104")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C105")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C301")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C401")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C402")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C403")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C404")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C405")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C406")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C407")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C408")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C501")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C502")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C503")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C504")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C505")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C506")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C507")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C508")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "D101")
+				(pin "2")
+				(pinfunction "A_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "D102")
+				(pin "2")
+				(pinfunction "A_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "D103")
+				(pin "2")
+				(pinfunction "A_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "D104")
+				(pin "1")
+				(pinfunction "K_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "D105")
+				(pin "1")
+				(pinfunction "K_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "D201")
+				(pin "1")
+				(pinfunction "K_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "D401")
+				(pin "1")
+				(pinfunction "A_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "D402")
+				(pin "1")
+				(pinfunction "A_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "D501")
+				(pin "1")
+				(pinfunction "A_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "D502")
+				(pin "1")
+				(pinfunction "A_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "J201")
+				(pin "14")
+				(pinfunction "GND_14")
+				(pintype "passive")
+			)
+			(node
+				(ref "J202")
+				(pin "1")
+				(pinfunction "GND_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "J202")
+				(pin "7")
+				(pinfunction "GND_7")
+				(pintype "passive")
+			)
+			(node
+				(ref "J203")
+				(pin "2")
+				(pinfunction "Pin_2_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "Q101")
+				(pin "1")
+				(pinfunction "S_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "Q101")
+				(pin "2")
+				(pinfunction "S_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "Q101")
+				(pin "3")
+				(pinfunction "S_3")
+				(pintype "passive")
+			)
+			(node
+				(ref "R102")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R104")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R301")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R302")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R303")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R304")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R305")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R306")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R403")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R404")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R408")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R409")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R503")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R504")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R508")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R509")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "U101")
+				(pin "3")
+				(pinfunction "GND_3")
+				(pintype "power_in")
+			)
+			(node
+				(ref "U101")
+				(pin "5")
+				(pinfunction "~{ON}/OFF_5")
+				(pintype "input")
+			)
+			(node
+				(ref "U301")
+				(pin "1")
+				(pinfunction "1OE_1")
+				(pintype "input")
+			)
+			(node
+				(ref "U301")
+				(pin "10")
+				(pinfunction "GND_10")
+				(pintype "power_in")
+			)
+			(node
+				(ref "U301")
+				(pin "11")
+				(pinfunction "2A3_11")
+				(pintype "input")
+			)
+			(node
+				(ref "U301")
+				(pin "19")
+				(pinfunction "2OE_19")
+				(pintype "input")
+			)
+			(node
+				(ref "U301")
+				(pin "8")
+				(pinfunction "1A3_8")
+				(pintype "input")
+			)
+			(node
+				(ref "U401")
+				(pin "1")
+				(pinfunction "GND_1")
+				(pintype "power_in")
+			)
+			(node
+				(ref "U402")
+				(pin "1")
+				(pinfunction "GND_1")
+				(pintype "power_in")
+			)
+			(node
+				(ref "U501")
+				(pin "1")
+				(pinfunction "GND_1")
+				(pintype "power_in")
+			)
+			(node
+				(ref "U502")
+				(pin "1")
+				(pinfunction "GND_1")
+				(pintype "power_in")
+			)
+		)
+		(net
+			(code "52")
+			(name "VMOT")
+			(class "Default")
+			(node
+				(ref "C101")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C102")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C402")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C403")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C405")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C406")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C407")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C408")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C502")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C503")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C505")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C506")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C507")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C508")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "D102")
+				(pin "1")
+				(pinfunction "K_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "J102")
+				(pin "1")
+				(pinfunction "Pin_1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R101")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R103")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R106")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U101")
+				(pin "1")
+				(pinfunction "VIN_1")
+				(pintype "power_in")
+			)
+			(node
+				(ref "U401")
+				(pin "7")
+				(pinfunction "VS_7")
+				(pintype "power_in")
+			)
+			(node
+				(ref "U402")
+				(pin "7")
+				(pinfunction "VS_7")
+				(pintype "power_in")
+			)
+			(node
+				(ref "U501")
+				(pin "7")
+				(pinfunction "VS_7")
+				(pintype "power_in")
+			)
+			(node
+				(ref "U502")
+				(pin "7")
+				(pinfunction "VS_7")
+				(pintype "power_in")
+			)
+		)
+		(net
+			(code "53")
+			(name "unconnected-(J201-CMD{slash}IO11-Pad18)")
+			(class "Default")
+			(node
+				(ref "J201")
+				(pin "18")
+				(pinfunction "CMD/IO11_18")
+				(pintype "bidirectional+no_connect")
+			)
+		)
+		(net
+			(code "54")
+			(name "unconnected-(J201-EN-Pad2)")
+			(class "Default")
+			(node
+				(ref "J201")
+				(pin "2")
+				(pinfunction "EN_2")
+				(pintype "bidirectional+no_connect")
+			)
+		)
+		(net
+			(code "55")
+			(name "unconnected-(J201-IO12-Pad13)")
+			(class "Default")
+			(node
+				(ref "J201")
+				(pin "13")
+				(pinfunction "IO12_13")
+				(pintype "bidirectional+no_connect")
+			)
+		)
+		(net
+			(code "56")
+			(name "unconnected-(J201-IO13-Pad15)")
+			(class "Default")
+			(node
+				(ref "J201")
+				(pin "15")
+				(pinfunction "IO13_15")
+				(pintype "bidirectional+no_connect")
+			)
+		)
+		(net
+			(code "57")
+			(name "unconnected-(J201-IO14-Pad12)")
+			(class "Default")
+			(node
+				(ref "J201")
+				(pin "12")
+				(pinfunction "IO14_12")
+				(pintype "bidirectional+no_connect")
+			)
+		)
+		(net
+			(code "58")
+			(name "unconnected-(J201-IO32-Pad7)")
+			(class "Default")
+			(node
+				(ref "J201")
+				(pin "7")
+				(pinfunction "IO32_7")
+				(pintype "bidirectional+no_connect")
+			)
+		)
+		(net
+			(code "59")
+			(name "unconnected-(J201-SD2{slash}IO9-Pad16)")
+			(class "Default")
+			(node
+				(ref "J201")
+				(pin "16")
+				(pinfunction "SD2/IO9_16")
+				(pintype "bidirectional+no_connect")
+			)
+		)
+		(net
+			(code "60")
+			(name "unconnected-(J201-SD3{slash}IO10-Pad17)")
+			(class "Default")
+			(node
+				(ref "J201")
+				(pin "17")
+				(pinfunction "SD3/IO10_17")
+				(pintype "bidirectional+no_connect")
+			)
+		)
+		(net
+			(code "61")
+			(name "unconnected-(J202-CLK{slash}IO6-Pad19)")
+			(class "Default")
+			(node
+				(ref "J202")
+				(pin "19")
+				(pinfunction "CLK/IO6_19")
+				(pintype "bidirectional+no_connect")
+			)
+		)
+		(net
+			(code "62")
+			(name "unconnected-(J202-IO0-Pad14)")
+			(class "Default")
+			(node
+				(ref "J202")
+				(pin "14")
+				(pinfunction "IO0_14")
+				(pintype "bidirectional+no_connect")
+			)
+		)
+		(net
+			(code "63")
+			(name "unconnected-(J202-IO2-Pad15)")
+			(class "Default")
+			(node
+				(ref "J202")
+				(pin "15")
+				(pinfunction "IO2_15")
+				(pintype "bidirectional+no_connect")
+			)
+		)
+		(net
+			(code "64")
+			(name "unconnected-(J202-IO5-Pad10)")
+			(class "Default")
+			(node
+				(ref "J202")
+				(pin "10")
+				(pinfunction "IO5_10")
+				(pintype "bidirectional+no_connect")
+			)
+		)
+		(net
+			(code "65")
+			(name "unconnected-(J202-IO15-Pad16)")
+			(class "Default")
+			(node
+				(ref "J202")
+				(pin "16")
+				(pinfunction "IO15_16")
+				(pintype "bidirectional+no_connect")
+			)
+		)
+		(net
+			(code "66")
+			(name "unconnected-(J202-IO21-Pad6)")
+			(class "Default")
+			(node
+				(ref "J202")
+				(pin "6")
+				(pinfunction "IO21_6")
+				(pintype "bidirectional+no_connect")
+			)
+		)
+		(net
+			(code "67")
+			(name "unconnected-(J202-IO22-Pad3)")
+			(class "Default")
+			(node
+				(ref "J202")
+				(pin "3")
+				(pinfunction "IO22_3")
+				(pintype "bidirectional+no_connect")
+			)
+		)
+		(net
+			(code "68")
+			(name "unconnected-(J202-RX0{slash}IO3-Pad5)")
+			(class "Default")
+			(node
+				(ref "J202")
+				(pin "5")
+				(pinfunction "RX0/IO3_5")
+				(pintype "bidirectional+no_connect")
+			)
+		)
+		(net
+			(code "69")
+			(name "unconnected-(J202-SD0{slash}IO7-Pad18)")
+			(class "Default")
+			(node
+				(ref "J202")
+				(pin "18")
+				(pinfunction "SD0/IO7_18")
+				(pintype "bidirectional+no_connect")
+			)
+		)
+		(net
+			(code "70")
+			(name "unconnected-(J202-SD1{slash}IO8-Pad17)")
+			(class "Default")
+			(node
+				(ref "J202")
+				(pin "17")
+				(pinfunction "SD1/IO8_17")
+				(pintype "bidirectional+no_connect")
+			)
+		)
+		(net
+			(code "71")
+			(name "unconnected-(J202-TX0{slash}IO1-Pad4)")
+			(class "Default")
+			(node
+				(ref "J202")
+				(pin "4")
+				(pinfunction "TX0/IO1_4")
+				(pintype "bidirectional+no_connect")
+			)
+		)
+		(net
+			(code "72")
+			(name "unconnected-(U301-1Y3-Pad12)")
+			(class "Default")
+			(node
+				(ref "U301")
+				(pin "12")
+				(pinfunction "1Y3_12")
+				(pintype "tri_state+no_connect")
+			)
+		)
+		(net
+			(code "73")
+			(name "unconnected-(U301-2Y3-Pad9)")
+			(class "Default")
+			(node
+				(ref "U301")
+				(pin "9")
+				(pinfunction "2Y3_9")
+				(pintype "tri_state+no_connect")
+			)
+		)
+	)
+)
